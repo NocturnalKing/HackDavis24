@@ -1,4 +1,4 @@
-import ShapeDetector
+from ShapeDetector import *
 import argparse
 import imutils
 import cv2
