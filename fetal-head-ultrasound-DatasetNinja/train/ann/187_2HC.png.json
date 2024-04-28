@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 540,
+        "width": 800
+    },
+    "objects": [
+        {
+            "id": 44970701,
+            "classId": 6461311,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-15T16:25:23.241Z",
+            "updatedAt": "2023-09-15T16:25:23.241Z",
+            "tags": [],
+            "classTitle": "fetal head circumference",
+            "bitmap": {
+                "data": "eJwBBgT5+4lQTkcNChoKAAAADUlIRFIAAAFpAAABNAEDAAAA1KVQJAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAOuSURBVHic5dtLbioxEAVQnjJg6CV4KV6ae2m9lF6ChwxQ9wsEjD/1u5YsdRRPc4TKt8oogPtyodf1+F6J+WO33HEA/nq81mbiR14W7T/8puuvo1iLykPJ1ZevXlyv3td8k/W/Wh93mbuGK5uNLU+S/mq1XI3vuFhNV4uYTV+L2Kkul++1Q7UIxbc9Uoq/kpwtnohRKp7UbPFUjELxjuGJ5oHhzNgwmtkrVzqzVzr1x1op7llO7jWynOorPTDsXvmdku82TuBENEHgG7JTKhphp1Q00k6JqXES75MMEu+TjCJfWy7qLklxp32S/PQ+V5ukl3mbZJB5m2SUeZOkOAKPtSDBtMErwbTcabzuU9B43aeo8bpPmq77pOZY90nNseZO5VVbvc7Ltgadl32KGNd12VY9x6qteo5VW9V5rLkz8GIKvIEXbQ0YjwZeTIFFf7gl9mJoLLEXU2CJveDOxPPQeIwHE88zFmfwPGMmnbmtS3kkbV3K3NalPJJuKvc2/p7ggPFo5MsQN+oXNzb1fT6MTYX5hszAm7tJPEEz8OJhKo9WfoNmYIibR+bnbJtnYIibR2aIOzPfB7jHeJjKo5kfA9yuB7h9IEe4fSBHuH0gn+/Yc7mbyv1UHs7E45k4oHGOHKbpHDl7Z+PIUZ3O3USOvW/g3P8dHgC9/ykeAX7/xfx2Mg7oxyebX8u3M/H1THz2PxwQxz5KzOX7mfh9Kr9N5Wkq37APt3P5OpUvU/nAtwTBrMFvOO5T+W2AezNPU/mG8XWAOzNfpvIL9AXgPpXfMf7zNa35EyXIE8afI2P/aA7y58igv2KY+WWIR5veMf7+5SvY+A3jaYx7G98w/mqq9bAuGH9p43HaB7ntfNwxnn+KtZ2PhPF3l4wDv2YeLXzBeNbo1QMLB+9BgLcsEsY/sZtm7BO7aWg+sZum4ALx6t6PzqtLSFHlqeRB5RvG15J7lS8ldyovtd7W+lqc2tb67pfapypHvU8bxpeaR4XXGr0v6GXeXl50Mm+C0frUBKP1qQlGS7LVcpL9DdYg8f5+rJd4u1MlybXjYpKdFkeYusYscOqSdER2KibZ71SMhtBCNORddj6aRHE+Gqp0Ya+kZqeGeYaA2yvzhAK3V7p0dq+MZvbKPnjiSJ44Tr8bcKXTxQvPkVDFg0+pbDyniuc1daLEZ5s8kMuFGhtJ91Eqz1m11Swyb7JRHptqs1k1Xm1WGID3gl68enm18sf6VL9YeD6ym0XncpJNv8JnX/s/YTUxuUl/rB0AAAAASUVORK5CYIJsWQgF",
+                "origin": [
+                    119,
+                    93
+                ]
+            }
+        }
+    ]
+}

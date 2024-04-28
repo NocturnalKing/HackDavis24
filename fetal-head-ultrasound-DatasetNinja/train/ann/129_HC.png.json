@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 540,
+        "width": 800
+    },
+    "objects": [
+        {
+            "id": 44970976,
+            "classId": 6461311,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-15T16:25:48.298Z",
+            "updatedAt": "2023-09-15T16:25:48.298Z",
+            "tags": [],
+            "classTitle": "fetal head circumference",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJYmBgdAfiPEZmoIiGisc1IMUW4BPiCqT///+/9Ob8u0AWY0mQXzCDw7MbaQwMzGc8XRxDKua8vX0697GBAFsCu+WTE0IRXN6LvYI1dRrdZVkKN370epQs918nh6PwTfKHg5f+GG9Jnr3nbttxd03V3vpliZqSEz5GT4tsfcd3etWpTfZCP6b8mnzMWav8V+WhTR2Xwjd1bGp79HS/lGbsvp0VN1kkpTVj/m1udfocq/7zg7P6zzlVJ+5l1M/+01vHO2l3oL2H3kWLE0YTPyS3nLHoZy1UtXS6pMrqdOmmMOtF1UAo7pX99XvBs3uTJ70SirSKtOHtfPTy0kpkfM54qfBRdz++o8UFEfNjPJJ9YHje1Fqfxql/TVzDvjV+2sA9hX8lPwxf4dzEe4V7E68JR1FzqnTGlBThFSyzHZY+uA3F0S9ddh7Y1Heve1OfXQcQHwpqK50sUmnmmRd4V2Wn69Yp0SHmnpPTJ8vo7FU6X8bmmvdfcTGQkfUhR11na9q83utP7/mtfbv8yqxKM7npflOrH+/VCt/Ms+rOGaNVm2Ys5fsu2LjUTuG3wUvmpImcMgLdZx5oRD5JmiI3YXUgm0OemyRjZI9QI5vlTBWjE98Zj6oanRCb6SMkWQlUpxD9JGnSv4NFpicLZt65kPpFJPJCasnWOQeWVm6dc9C1ZqvPA+7DXy81Gu2fE3NAfMP1KYxTXkc7GcVpbN/+h1GoJf/ntP0Bx+K119e+/2FpZBPz6D/r3kVfFpzR15DV+Hje/fopyX9Hvgc/Yam/ti9sUXyWnWueGOc+SXvndR/M085P6PZsYz+dA7TdaOaS6g1zHuafKAQ6cVtPYee/E2XTLzy6kyMUVbQj5mH8rIKdEqkMKWZe/CdSpvBN2ByotNhGUtVogfliFraSzV4JDuGbe1bd+W7MEpq2+csqn7SXIZaHi36pf028tdROyTxErrriiqBl+e+MotanO+s1DxlpGB02kr10+JJmUdvTEo+1H9lDbld6LZ0rrfO6tmHTmu9iboHPvNgiqgLVIs5NLVk0R0vTfGVT0eRZtauSvry9Fx7j5rjNOr9ZoVh5r0Kw8lyF9Ai/3imL8heI1G5/HNWx7/5R2cib73n415yZ+2WNz9ySNXOsTh6/4mi37OEEZunLFUoNkx9rNh84Yadit6xyQt/EWo8aH+YnXcv7Di5YWnzZZNo5UXsIFvGXc1DqXu7PEAhKtnP9lyzxWsS1yFtJMVSo3Ctbp1Ov49WlMyc2qrD1vZ5s/7Xt3rMZtuWzkxfpvBGe6ue2rVPNcZulb1NO0aT+1GvTzy8qeXB09qunj2d/nXKmy2ZeiP3uVweX73mbPKm0Yv++urfv3RV+/2CfVXJuxWynNZXATM7g6ernss4poQkAiXH2Qw==",
+                "origin": [
+                    291,
+                    46
+                ]
+            }
+        }
+    ]
+}

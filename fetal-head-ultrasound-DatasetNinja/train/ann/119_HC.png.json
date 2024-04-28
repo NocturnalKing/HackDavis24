@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 540,
+        "width": 800
+    },
+    "objects": [
+        {
+            "id": 44970262,
+            "classId": 6461311,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-15T16:24:34.500Z",
+            "updatedAt": "2023-09-15T16:24:34.500Z",
+            "tags": [],
+            "classTitle": "fetal head circumference",
+            "bitmap": {
+                "data": "eJwBQAS/+4lQTkcNChoKAAAADUlIRFIAAAFNAAABWQEDAAAAJnnvCgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAPoSURBVHiczdtLcusgEAVQpTLIkCWwFJaGlsZSWAJDDVzivUpsI6A/l5S7HI1Pxd23W04co23rrlrLBl2f9f91QrR+XzdA+h9asyo/6uOCfyjQ2lOqnX01qlUbLlQJoV6vHX19pTHfUbGx2FGpgo9eShV8DVTIwA9UqCCMNLN0lPXg5OdE2bjGroRip674Yqeu+GJnyRU7zkoodg6ALdZRlC6WCIArlgigMvd4JGmiKCnJnSWzovsis6L7cjSl+vIMJfoKDM04JfqKDCVuW0YSfTGxVmIPmVipvoh78H6VkTqWThF4lk6j5ekUQeDpGEHk6RgBL6cIBDpEwA9r2gJ+WHWMQKR9BPxc63gjOIlmnPZpeYn2aQWJnjjt04oi3XHapSXKPi2ZXtOStqX2aSn0ulvitvTBKvQarLhYtQtWo5dgnUIzTi/BeoUeOL0EGxR64rQu0BZs1GgyoW0GmrzMQKXPGSibXS8z0OmJ0/oLqt0vtY0LoAmnjxlot1ZtM3gtPXD6GJfT6YnTakPv4/IATTjNJrTg9FimAaA3nJ4mtC7QfZVGhCacZhNacHqY0JsJPXFabei+SCH5sy8vp9mEFhN64PRmQk8TWm3ovkbjy2kyodmEFhN6vJveTOiJ/ja0otWG7lbUgzS9m2Yr6kBa3k2PJQp8hlmltz9AgY+R39f5ByjwmfvnsqLoL9kVulvR+Faa8HdNM+pfT23eCs0o+kawRtFbtlhR9JY1o+h9uEjjy+mB/01kR70JdSYUvA0WKbjbixRc2EX6+k/oB/5PklUaTKg3oQ6n2GqtUmy1Vim2Wj//K7ShEaFllQacehPqcAotwTKFliBv8BIsU2gJ7jSa0ADQtMGTXacOp8hk7xSZ7L5MkcneKTLZB4063dZpwKnHqVPl88tmfVxPqs9ggS58Md7OMSzQqNF2kCLg1OPUabT8hqrjalSdQX5SdQaNqjNIjUacBpx6he6NOpxqwTa5cvJICbY7KLZAo0i7w3oBp16k3fk3J9JypXKwHZWDzVcqp9XTKNHU0YBTL9G9o06inZTT6qm0W+ORVYGOB3wjT8czswGnjqdloEIEeaDCwqSBChFMNLJ0H2lg6Sj5COaj42wE82lsNgLijDdHy0wjQ/NMPUOnWPkIplj5vmbJ9UU+aUD3RT6bQvdFPupA91UoSveVKUr3lUgaKEpKsljmERJqD5nneKh3IzKAjRwCHQA5hJ2hRLGMJIrln04KI2UfI5qT5boi1oDrapvikh7lGuLiS50q4EvdxkUUSh0qkB+n6yooIu0ySDL9Ql9/uzamvP51uJps1ao/tIWgy0cJCaHftpf/ANNGZn5RpkTnAAAAAElFTkSuQmCCDJUDbw==",
+                "origin": [
+                    231,
+                    88
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 540,
+        "width": 800
+    },
+    "objects": [
+        {
+            "id": 44970965,
+            "classId": 6461311,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-15T16:25:48.293Z",
+            "updatedAt": "2023-09-15T16:25:48.293Z",
+            "tags": [],
+            "classTitle": "fetal head circumference",
+            "bitmap": {
+                "data": "eJwB6QMW/IlQTkcNChoKAAAADUlIRFIAAAFbAAABJgEDAAAA9r2hsQAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAORSURBVHic1dtJbuMwEAVQNbLIkkfgUXg08mg6Co+gpReG2W1HkjnU8KthAoqWwYNQ9auUQWaWpbu+Ssn917grlOdlsZj+3m25A7icV1atf2O9kMqWTbGuxtqtY8Fv/dXY8hCxb3FZJdzZcsOrkFvsqxAHEwfMz/zPYIU6vgnM1jGWLOQxlszXQZXMzoUqmd0PR2ImvEBipmja0kXT/TFF0/0xRdP9MUUz/dFFRw4TRXP9kUWPT8lxEY8tF8a/Kw3Y8zjjYVAdRh6PHfJ27JBPjuiQT66MM3QS7jv0Eu4f8SDhvsMo4X5LRdt1KCbXD1xMro9Dwe3AhQV9Xm0cTsZtHF7BCZ5J6eKICm7iUGy7HRqus1MGWJo4lJmUJg5lJqVZJR1X2TkVV9l5Fd8suMouqLjau6jiYsLvoHVbBQ3gM2h9Naqg9dWogkbwGbS+GlXQCD6DdghOFnwE7RGcLfgIOnwcH1OJCL5b8MOCj6lA9piKBSPrXI4Rgjhb8AbvvhXfLPiOPyjHCGfgYsIJfgSteLXgDD+vVrxZ8G0avsPfNqz4YcFlHk5WHFG8TsN5Gt6m4ds0fLdi1L52dA4uF8FpGl6vgfM18GbEcQ6+XQPfr4EfM3GYg8vvxB7H6Vdih+P1Khj9ZftKGPyjxoyzDYN/4s3Gl/jZli3fGafiMA37a2A3DeMPoRXjz5UV44+KCa+W36DNOE7DYRr2U3AyvGixY3hHE/6qzIif7yHgtTNjeO1eOE7AP+/3ggX7CfjnBaazYHA5frDpParpDS047/2NvAlHCG//gQOE82IY4Y7d5/G6GOa9Y2yEaTGMcMfYCHeLTeXAAbDnp2L+0/j8cM5ZMDIV02eEJzZ9VIlM5Y2jjvOJg47XE3sLdjpOJwaCfmMg6NMCQddnLaKG65MIwYK9husDEU7DW4XV7HKF1exqrO7dWuOo4FTjoODaatm1h2WUONpjOKYzO8oqdeedooi3FgcR5xZ7Ea8tluNILZbjWLpLssOJtSjg4SycF/DWYyfg3GOpw7XH0sBTj6UOByt0SBx95DskjtHyHQ7JLcIMhzAWYUvHMPiiyUPWpsOrpmOx3FgyiT3eH5s0aZmkuePYAe+PSXplMBkeY8nw+BPkHi+ZDI8rmapDOqo/5CEdvh/yEKoY5yLZfqmlKpZ+P8Qquhblf1vobp017Aw3rgej3riaOfKfJ2d8iD00Zl88DV/7C5Excf6CoZZQAAAAAElFTkSuQmCCiyTk7g==",
+                "origin": [
+                    229,
+                    74
+                ]
+            }
+        }
+    ]
+}

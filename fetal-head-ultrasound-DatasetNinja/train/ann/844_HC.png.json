@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 540,
+        "width": 800
+    },
+    "objects": [
+        {
+            "id": 44970608,
+            "classId": 6461311,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-15T16:25:12.556Z",
+            "updatedAt": "2023-09-15T16:25:12.556Z",
+            "tags": [],
+            "classTitle": "fetal head circumference",
+            "bitmap": {
+                "data": "eJwBHgTh+4lQTkcNChoKAAAADUlIRFIAAAGHAAABNwEDAAAAexofSAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAPGSURBVHic7dtBjuMgEAXQjHoxS47AUTiaORpH8RFYehHFMxnbBDBF/Y/UVtQTtqOnUPWLTCvGt1tzfa1/19z+t+Yy6791Z8G6LiD4WtOKmFiz5ak9oaX8WosVdGFLoX9I9RHAh5haqB2earEq4PcJaMPizqJf+6nu5/LkppRRaWxqXR/sprrbam6q2y3bFp1utUEnxC9JBEkYSURJOEmIhUhALEQsQyxELEMsRCxDLEQGQiGdMoRCOmUIo9UpQ/h+mHqidUaEs3GshhDOxrEapZu+aJTu+qJR+tQX59SVwhuldxN/Lk8W3ijdaiKSrWo0SwOnOVFbdWqW2qpTs4wuAtmqU7OcLqpm6aCaLKBVVXuBVlXtVQ7gtor2GkQU7bWImMnmVu1FQNFepLlle6HmFu2Fmlu019DCYiILxGEiC2TCRCTjyCPE4sgjBOPIIkTFK0IwwCwQQwuLihShQ0WKcEJFihAFA+IIHY38FTocYAodDjAJA4uVF56MPAmHi0BGnsaEFzjYxwSP/BgTXuBDcgwWPiQj4sEOyT5YvLCM8ORYjYhAjtWImMlBHBGRHMQRsZCjOyqY0d3GnReGEo8hYb9ZrOywXyM8eTwGBQeex/YCwR2o50G/QnBH8PnVcIXgDu01YiGP+buKO/tV8oOE+3bxeFMxfcRbCRJ8xEd8xEc01v1NxfSGYvlvRaT/ZvgpYqb/TrxChEuEIYV/S8H+iHOJeLA/X10i7uwPdwNiGRHkfyC8iENiosQ8JBwlwpCwlPAXCPohAC8e7MOMAXFnH8oMiIV9VLQ9j+IFdUBm9rHagNie9jlC+EFhCXFjn2A9RgUxinda7E+qiVHchoQZLF5sQ8KMYtjFBAu/C/eNYgf4YKWbHAYV6bYIHPpCi3gIeEySgEM/IsdDD0lMoPBJOFDcWJHdprKYyG5sGUxkt8LACONLgBG+4kAjfMWBRugzMUEiA1ggxd1Bi4jifqJBRHFJDwok5gIKJG8uFkjeXCyQAiDtre69Wl1U14qNLmIpgPbOpQDaG0oBNKsC+vSerpI7TZxuYBtNxFqozZprwV/ZVpt1AvzVc22yGtfbTV+cCldLD2fBvwrQL735poXtieYrDaYnGoUrpfuW6KUuvFnkyDK6pce26Ax8aItOhm3QyVB8AU0sZJaEWIiXhJRI5z0vR5YhjlaQhdBfGQj97b7c19xWZ1PCtnqguS3ljcPGtrqbujVCVN+ctLWYNVGf9t6bgPtypYi6qD5EB9WHzIjIUwRfyc0OlsfEq8MBBIngYKtFSuIPpoenlH7uuh0AAAAASUVORK5CYIKrAOP7",
+                "origin": [
+                    228,
+                    107
+                ]
+            }
+        }
+    ]
+}

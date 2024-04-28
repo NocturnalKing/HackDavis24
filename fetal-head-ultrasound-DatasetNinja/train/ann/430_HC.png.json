@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 540,
+        "width": 800
+    },
+    "objects": [
+        {
+            "id": 44970889,
+            "classId": 6461311,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-15T16:25:41.724Z",
+            "updatedAt": "2023-09-15T16:25:41.724Z",
+            "tags": [],
+            "classTitle": "fetal head circumference",
+            "bitmap": {
+                "data": "eJwBWASn+4lQTkcNChoKAAAADUlIRFIAAAGhAAABRwEDAAAAMnthHgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAQASURBVHic7dxNjuMgEAXgtGYxSx+Bo3A0OJqPwhFYZhHFM63EzV8Br55nrE4rbKNPNq8KS3Egl0tn2O3v8L1P5fGxPUZk0LYFhdrSWGFkMnVH0a8tHxFUrlBgkL9LtF2ZS2EX+1UjaGa2UdscfbQIKPUiqNtUNVkgebRZIHkYUc3aSkSzW5RvcHaL8g3OUhQTnN1i7wbHhV66atT4tqtG2XfRaGL9aY0m1p/WaGL9aY0mNkD9iY2m1Z/YaFr9iY2m1Z/YEPWeOdJzJh+rqOpnbj2iqMxEyXHYiZLjmCA5jnGNP4cUxywMuTvMVElx2KmSHlRTJMUx64zP4YkIpRAXQEUiQilEC6g2RAC1ISIRtiEiEbYhLpAKRIRt9BZSdYgOUvVyhlAdPRZhHf18IT9GGf0CqjJ6A6oyeguqsusdqMqCgagsGNbxn4MpV1kwtFxlwRZY5QUzsMoLZmGVF8zBKi8YjPKC4eXKFV6uvMx4ufIya1Qq86JQqcyGUlahUnM4hUrNoUBZc1BK0RpZc2haIzWHpsipOTi1qNTeUkal9uawJ6i9pZxK7S2lQqS6EQ31pXQNtTeiUm1MQ7HKE224K6NU6wFllSocUE6p4gGlRM+mp5Sy5Z9Nzyltyz+WCqe0LU+qjVkorPLEQjmirFqtJyunVoFWakSqyCr1omTVlVXqpXyuurFK/9g4Vd2Zh81rKKNX289V9psr/wLKvdVbdRSB3uqt3uobKkco5qvDW/0DdT9X2e+tbq+gjF5dX0EtehV/qArUt9Ez1Up9oz9TeepdCqeYF7ePd5UnqTuvnFbdTlRX5meHI8poVTxRBertN6dW6q0+pzz1awWnLsyvMPcDSrssb0eU06krpR4/tWkX2FMZnQpH1KJTK6X8Qymb/qmU7Xth1L5/Q9e+X7s+VOpGqa89ME6j4q7s/1dhV0aj1l0tGuV3pWqpyzGlaam0W0zTUtl+NoXK9s45XEVKhaQsrtakDKUWXPmkFGVOSFHmfOcnXuZilymsih2tDlWRUiFXFlVrrgyqfK4WVOUILnO5sxotWLWBHlSxVA5ToVQWU2upDKZ8qRZMlQiMvt4Ij62w5uQCpGKtHKJCrSyifK0MomoEhdge8kFCbA9/IF3fRAiF2EQIhdhECIXYIiBE6WDQPETxTNZUCWEAIa6SMjMloelylo9zzuLonNebKDGMaRxeVmaIekcDx93RO9s6Xiyxo8ZxrD1lR6qHhnXuH9kd1bk7reHEutMaTqyPBhUbHfPtVywMFHd8mTwqzR3L5o6Ak8fNuaPt3DF68sg+9/cA3F8RCL0YAdXmgaDmYtClmothqLoYeKkyRvgvMYoe9rhK3RhwlJgKXZ5Bdj/9AxGyTKwu9j5zAAAAAElFTkSuQmCCBCgBeQ==",
+                "origin": [
+                    72,
+                    113
+                ]
+            }
+        }
+    ]
+}

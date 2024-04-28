@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 540,
+        "width": 800
+    },
+    "objects": [
+        {
+            "id": 44970663,
+            "classId": 6461311,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-15T16:25:17.544Z",
+            "updatedAt": "2023-09-15T16:25:17.544Z",
+            "tags": [],
+            "classTitle": "fetal head circumference",
+            "bitmap": {
+                "data": "eJwBGgTl+4lQTkcNChoKAAAADUlIRFIAAAE9AAABcgEDAAAAvVufZwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAPCSURBVHic7dtLbuQgEAbgjrLIkiNwFI6Gj+ajcASWXlj2pB+2edTjR8JjJWmW0ac29VdZM+nA7UYsty7Uj6vl1+8FOHt366y6z/W5AvTg76Vtc/tA9SPdDuVdfqzHGiRoEhixJ8vPTp8sPvsrgwF78rpOPMyckPlnDvlNmgKym3QFZDdZOHaT5RbZTZZbXNcR2yLbbl9BupqPyjHVfNWQfhnrWphq6lqY3tS10NUQtdBTXveFKZuqhSzbkpAomyqaLJt0RLfJoql8yKKpfOiiiXzoool86KKJfDwDq3wYV+XDpFPnQ433Y5X5GA6W+VgUOg6WQXoWDlg6ZeJsOmXizOzcV544G2OZuOFhnrhFoeNhnrjnYZ644LLEhRjzxIUYcyjEmLdGhGlrDAqtBNMeOgmmrfESTFsjORwmPRQbk/ZQbEwKxbzTHppO8Gi2leHRQ4dCL8OpHcrumAqlMTjcp0Lp4DEVSgcb4DYVBoVWg2MrdBrcxsd3g9v4aG6DWgcb4AS2Gocz2GocLuBMbND2gys4Ew1wwGaiGeruNeIo1IenAQZseFqhPjyvdwGGpiecwCk7Ac7gODZC3xMu4DieBJG5fbzYMETm9gw4YAN+EjR94dgA7XXQ9YWhAfrrIOROgBGH2Nt6LcRe62sh9v7jcLoSmt8E7Z+E7g27QP+G/xPGEyDm3rATDG8orfFPwuE3QfR/1y3QXwSXHwDnHwAn9DfSC2G8Dgb0u4L+8MIvPvp/3QND8DvXNgj9ArlcB2f0O0AYTqdA6JuP2B2GFgj90zWeAz0Ah+4Q/QvSEzrdLd3h86+AtiOc2qDRYWyDwIsdusPHlCHvKwwfU4a8XbfecDuB0A9uhx98N7gd0HAajK3QajCgcHxB0w0OL9jvxMcGtYGET6X0PxADn8WJ7dDLMOzQyXBE4bBD2wnuThmf5LSZPBUzCpOjc/JUJFBudkTh0Ril2WMCvQQHFCZObHZ2QtOi0AhwRmF2LlXqYUyh1MM0b7E1ad5iawYUZk5oTXEG2bGwOP5sWVgcqDYsjDnkEw855BPPYxQSz2Pkg6yOunsGVofnHQOr4/iWgbGEhoGhhFyQYwm5IEvHBUlclKAhcfXCk5C4zGGxorl8qqK5fGqH3w4hyyZvVVFlRwo6rGi67IGCRNn0BR+i28wNMbAWqpqRhharhaiGu3pVVQNf5gocLKthtlj1Br7CBl+KG3mYJ8m7PEn4KmAQYBaQ5NJnCzXfF1Tzfe11a5c093KCAreP1C+S3pR5ONYn9ODHcnQh/wBjTr6PVdDqKAAAAABJRU5ErkJgggYx7tA=",
+                "origin": [
+                    338,
+                    108
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 540,
+        "width": 800
+    },
+    "objects": [
+        {
+            "id": 44970902,
+            "classId": 6461311,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-15T16:25:41.729Z",
+            "updatedAt": "2023-09-15T16:25:41.729Z",
+            "tags": [],
+            "classTitle": "fetal head circumference",
+            "bitmap": {
+                "data": "eJwBwQQ++4lQTkcNChoKAAAADUlIRFIAAAG2AAABZwEDAAAA8KX+uQAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAARpSURBVHic7dxBjtwgEAVQj7LIkiNwFI5mH42jcAQve9FqJ5OM2xio4te3hNQzzTZ6sqlfWBO3YZqE8bH9HTfpX8Xhtv+DZEb468m2u8Vt2Vhx5nO3LcRdmu40nN0WqcvBF/Slw2b4UTGsbVztoPDnhkt9VlUFrExdFawyTdZvtt9t9+Bus3+jAuvdaLOaQEWd5Do3OosuaazRm/tQe1RI4XOoSXjZqROUp6cmoUxPTUKZ3qYtQm162gS16SkJqtNTEtSnJyfodCdOMHRcFFyHScl3yiIm3ymLWBjfc0JhQtclqixCYbplEQrTLYtQGNd3zaXkARcbbgZcq6AAay0l8Qmfj0ZBgXI2C+oQ1+g0D7m6oDPk6oJCrC4o0J2foyooFEOjoA5zVYd60JVBBNCVQcygW6kYqiDAGKogwBiqIKDV8G9w8ZVBeNidgwiwS1R8ZYAwOwcIx1cECMdXBIjHdw7QGVweoDe4PMBgcHmAs8HlARpYHqAhPt5lwRtiPwVviT0P3pncEbw3uXjZBZM7GmY2uaNhTOwI3hR7FjzrTO2SNYytXY6GYZ0zur3RvNFF0u0NE0g3G91Kur3RjGx3xjZ7NhrrjO35bFCz27j23J0zu+WS82YXSZeotubdSrU1727UcuDdnVoOvHtwy4F2G7eMrjlHuGWwi9Ty412ilt94t1LLlne3C45gtLvzjnhM8O7BO+bxQruNd8xjabxbaOeGuvgyzg916WVcGOrWb+/moe72dj/S3ak/J97u7d7uZ7n57RrjVZ7zr+PCt3bj/47039rx/19x39rx/7/l3heMdgv53uZVHPn+bLR7kO8jR7s7+X53tLuR78tHu5X8/eGKc4RLg10kf6+64pgHzHLBMQ8K8nfKjfw99XHJzWZ3v+SC2d0uOW926yXnzC5dcvaFFCfuh23WLRO3IKZLzrwg9g+75kFu/wAtGN3+/ZIf5NYv54wufTlrg7Iufjlrgy4T12ism/ZhY8eHqrPJHR/GhiHu+IDXm9z6dM7k0tPZGuZwtoaJpFueztYw0zEsLP+gfTa4/AP6QDpvcPmH/s7g1sxZgk+ki5mzBL9kzhL8lA+cnTeizLA7b3wJsDtvtPGwW0/OwS6dHB5gPDk8iOXk8CDODA6i3NAVQFduIPOgKzesOdCthUODiIVDV1IRAxxEycAg6o2KAXL1xkgPubKcaEFT5bCCljGgK6KKAStoayNtAFxr464HXGuLOFLQupxYQetyTlCHthhQ0PaGbd917Z3zruvWpusXplkWoNOWpusWRtrg7ztOOlDAdVy7LP3CtMsydTtGYp2lJB8I4VUnn5ShL6UkOj35RXRq8trBHNoEtYNAtAnK09MnqExPS1A/WMWJblWd3KJRdXISOhOT6B0ZJN1o6jhpLfWYcKP9k43aNxq7rl3RPmtGjxzA1OrRBXCNHsUOmKorEyFXXbB7GJJwwQS64oL4yWLnkkbYnTI0nbl23ClalK8x787Gdmi82uf4UPvrD8i2LwM8UNjQAAAAAElFTkSuQmCCrNpiVQ==",
+                "origin": [
+                    118,
+                    121
+                ]
+            }
+        }
+    ]
+}

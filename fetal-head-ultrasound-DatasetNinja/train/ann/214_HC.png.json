@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 540,
+        "width": 800
+    },
+    "objects": [
+        {
+            "id": 44970300,
+            "classId": 6461311,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-15T16:24:39.899Z",
+            "updatedAt": "2023-09-15T16:24:39.899Z",
+            "tags": [],
+            "classTitle": "fetal head circumference",
+            "bitmap": {
+                "data": "eJwBGQTm+4lQTkcNChoKAAAADUlIRFIAAAGBAAABNwEDAAAAdgRvDwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAPBSURBVHic7dtNjuIwEAVgRr2YpY/go/ho9tFylBwhSxaIjJgQ4p9y1XuWQNEM3rY+4VdVQQ3Yl4u41sea5L9J62fd1oyCX+u+0FeJL7FiwB1gvXJ7QvflC3FjXwJ5EVcJO8lar2SA341YDBEacddBndvOXue2t9VuytiWtCl9W9Km9G1Jm9InRQRaE9v2bWvuCt8R/dmKHdGtr1xbLUgvRj9IL0Y/SC9GN0g/Ri/IjyImUThFLKIIipBHSwHy26kWXI7e799jzYLwqpCiB1VI0VUgdV0PLkXXg0tdd4Zoi+UN0Q58NERbLAO0xdJGfVt1saxStcVypqiL5U2xkKVqi2WCuljWVD0WW9y6vHZx6/I6QJTlDYAoyxsBUU4vAMqGIMUtG4IUt2wIUtyyIQ4SeUM8JPKGBEjkDYmQyBsCgbwhUDuKhmDtyBuCtSNvCC8cKI4WelAcLQygOFoYQXG0EAQD4tV0sOVZ09GWH01HG3gIB4tEi73pnhYBFjMt9jGJtIDBa0xwcSOH5CXwIdkHixf4WO2D5d4qEjlW+2DxIhBiJsdqRCzkWI2IKzmII+JGDuKwYEZ3G3deOEasnxKeEmlIBEpMQyK+WcxDggIDYhkR1CP4GXElH9qPCeox//tmck7hOHE/q/DvFutZRfhPRRoQ8Su+4hSCBF9xOhFPKNh/Rb/ireL+GRH+BXH7jPDvFtezCseJ5ZRipj/jnFNM9GdOXqQRQX4+5wX7Vd/2bdSbxX1MREbcPiCu7JfOo8IzYhkTjhHzmKAe2+kDItHfU1/GBPMQ3gcF80g9f4+K7xTP39UCLpZR4XExjwqHi2kTxCgmWmyAGcWnwAfrTovX7+e8iKi40mLZRUDFvAtPC4eKiRZpF/CY7AAek+MMC9p0XmQna0CRnd6JmFgOETAxH8JjYjqEw0Q6BNjCCyvyU2FY0/OTZ1gLi9NtkFhyEREx5yIgYsqFR0TKhUNEDqCGlKcmkYZUJzMBUR2VjbaYSxFsMZXC2yKVwtmiBEB56/O7dnmbU8WmWGoRLTHXIlgi1cJZogZmsdpz4VaxhBsHhmhKZRZraoXXRVMqq1jSNQg9unToXn9fFIIb0WdJBE0IwfXo8v0PLbp8x0SLLgZXo0+y8H0hA2Xge1eR+kE6MZQgnRhKkB7oBunfqOoF6cboBkl9IQfRbp/Jo6Xe7hPFpAlpW/pNPWlbxpVDdlPStozrg8K2FkO0TUyWqGcLuDTK5X4sVwDgymiVJCEiTwJdfc3fTq1evBa3p5xMMHhurPO3P71c5o0c7R2XAAAAAElFTkSuQmCCecvTjA==",
+                "origin": [
+                    159,
+                    107
+                ]
+            }
+        }
+    ]
+}

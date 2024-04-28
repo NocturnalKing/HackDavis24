@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 540,
+        "width": 800
+    },
+    "objects": [
+        {
+            "id": 44970403,
+            "classId": 6461311,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-15T16:24:52.730Z",
+            "updatedAt": "2023-09-15T16:24:52.730Z",
+            "tags": [],
+            "classTitle": "fetal head circumference",
+            "bitmap": {
+                "data": "eJwBLATT+4lQTkcNChoKAAAADUlIRFIAAAGGAAABPwEDAAAAeIv2GwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAPUSURBVHic7dtNjuMgEAXgtGYxS47AUTgaPhpH4QheZhHFM50fG3AV9R6SIy/CtvUprlfltGLD5SKtn2VZ7uJflOWWx0oswMmfZV2g2MBy467pd2UA/JQACsxXAvmQGgAf4hphJxxbcTXAnxYsy9QXfi/mvtgDo4t/BdG/LOGijMuSQPeyhKSMy3KyyLqIstAv60cGnRtLzPZ3JU14TcxkGXohahlqIWoZaiFqGWohQRdKITpQ7nZlqJ5rIgtXRqtTuPL9EHtCLL0HxB52CxdL7xYulu77Qig99IVQeh8IXe+M+nPtSjeiEgbeWWImoxLCCpbYhRUt0c6JGdUuLDOqXVjGVP2uTIa7C8vbogkr2qKZLBs08QLhNvEC4TbxAuE2s+gQUcXrEVHFGxBRxRsRUcULgTJeqB1VvFA7qumF2lE1BBRFQxwmioZ4TBQNCbSImChaCIKthWADixbCYm0h2PKihWADixa648TadI+KtYUBFWsL44Hi3XQYvJsOt3xtOi/gIVnHBB6Stem8cLi40eJOjtUqAi4WXkzkWI2IRA7iiMjkIL4GixfE6L4GixfE6L5GkReOEfcx4RmxfEJM5O0xIhJ5e4yIPCQoMCBm8oYaEdcRQd2CI+L2GUHd5o+b8BPCcWI5p5jIr5KzijQgwglFPqmIpJi/4kBx/YggwVcQ6/YVXwGI+BUnEp/53g1fAQt/uJhPKtwJRR4Q5C+vk4rE/q79kCCfGvz/5fUJwf4jpJ/JjIl4sLgPiXCwuNHPE3lxHRLuYDGzz5AHRGafhQ8K7iZMQ4K7paYxERlBv5VZ6HdF90HhCXFj36sNiOfrPmZ4efF4V0QN71Mwo5hp8XyvxoziS0RcTKMi4OIJiMG6DwsHi/fWAXxM3tsT8DHhxfwS+Jjkl8DHJL1FpEVAxUSLN4Cbvm3GcbRAm75tKkJbuG1cQls4rwJtYd5ExESixbSJQAuPiQ2ALSy30GEtLLfpYS0stwJiLSwaCLYwlyIiIpXCI2IqhUNECaB46w2jSLz1plQk3ipcKN5ci2iLVAtvi6kWzhY1AOJt93nb8e42VJtibkW0RG5FsERqhbNEC8yw+C3xwkZ9Q+yiMkvfRWVO1rQXRul7YMwJf9RCPM4RekIo3ChdKNwoXQLdrivHa6IuZlkEXSRZOLLwXg/VE36qUI/rqYVkTaiFKGXohXQOKkZZzLrwski6UEZLB0q+3aOQQRK5J8TL6oGBg5BSWt2LEpvYBwOHRvezNVmirR04xtvUnmxxYT+iqQT5iCouM6jn4g88b9M1oeJNcHB51KLU8A82Up0AeaSXAgAAAABJRU5ErkJgggs+4QA=",
+                "origin": [
+                    210,
+                    68
+                ]
+            }
+        }
+    ]
+}

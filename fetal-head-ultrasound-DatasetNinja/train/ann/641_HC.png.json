@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 540,
+        "width": 800
+    },
+    "objects": [
+        {
+            "id": 44970688,
+            "classId": 6461311,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-15T16:25:20.782Z",
+            "updatedAt": "2023-09-15T16:25:20.782Z",
+            "tags": [],
+            "classTitle": "fetal head circumference",
+            "bitmap": {
+                "data": "eJwBDQTy+4lQTkcNChoKAAAADUlIRFIAAAF9AAABKgEDAAAAwzwSXQAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAO1SURBVHic7dtNbus6DAXgXHTQoZagpWhp8tK8FC/BQw+CuDeufySZFM8R4KBIq+nlh5g8zMNrotxuypn/H+3fhOPm5Yxk/TwPWP3HvJ8eAkf9/KAeCGzj35wdG/gcmC9RvIDdRfEC9mjL+vler/88gbmrgnAGY62+bNl8JieA6jNFCVSe6UOqrz2T+ES19RCfqLLk0oyeZ9KAkNpy1H0KClAHq9VrCygPtdKEU4GShNqCloReLyeht6Csk96C0nWlBTm6WAFS19oifR+ha22Rvo/Qta8CoetQBULW1Xqh61psz9NxPQtj8gY4jSkY4DQmo/40pnrOz0MO6TQmZ4JiTN4EQw6iCYq5mvXFXO0hFXO1FmMu36XOBnkQHgBZEAEAWRBAfRYEMKQ8CHuT5jwIYKp5EA4BaRAeAWkQAQJJEBECRxDQVFMATTVNDppqmpzDwJGcx8CRXGBBxMARNVafRI2CLWowtwOAuR1Rg7kdUTsWeBRsuxFYEFGwLRNav+8GC+DctmWCc9sAnNu2fTRwOOi4oDcQcNC3gYiDgQt6BXjQ67rSAN+Mdb+JoBuBI8C9CXgCPMjNaASRAHMTYOp50HG7twBm99oAs3vLm5oG7oeBgdvuNhCuBSO53a8BVH0L4N4/PJh4wL3hXgK4d+hLgHsD4N8AhN8I4h8AAFf/FmD8A8AZfiPo3wB0bwDY/0e8Hjx+Hrg3gHgtmH4eaPmLJlDg+r/7+lcAT4HuckB+HLUAx9Q/Lgd3Fkzkx4I8GFsA9bfocDnoyc9zl4+9aUD9x5X9EJsGD/Zz9XsbCDiYWDCyX1cMbcDhoGfBshkv+BaI/mIKB/R3ZVMjwPd7XEFEwcCCfgUBBd0KPApuJNi/znYg2L8wR5dpagboMm25wbsxsGDLDV6mbgcRA3s9uBvJjRMPgTsLxgM4CAwHwKI+pgpGfUwVTO6WHKQ+u1AVAZBd2QoAyC6FeQAMKXAA6FOABNGlAAkirefvtdE35/i7ecEEfQ68CbocOKu+vEBrzpW+VElf2xxKEA3Ql8AboKy3xnS+b2vs6/lGrzGmU8/WmE49W9t0rq+PSbpPXu16FEB1m4Se6113Eoh6vXyv3+tAvnRf6VpsoZa12EKla+2nCYFrobLhvQLU6JR6tQn9JyJeBoMKlCQ6FchJ1H5IEyQwVoDjnqjhpz3Sig9VIDxTtV54JvVHNOs5zakzQLlPxi+sbqe2exN8ki9QdGF18DxpFyNQn2YB/fgufSiwfhdw/feo1Ii/ADhudWU7rVW6AAAAAElFTkSuQmCCG2DTLg==",
+                "origin": [
+                    223,
+                    140
+                ]
+            }
+        }
+    ]
+}

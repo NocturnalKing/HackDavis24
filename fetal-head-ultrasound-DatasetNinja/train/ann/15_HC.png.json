@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 540,
+        "width": 800
+    },
+    "objects": [
+        {
+            "id": 44970307,
+            "classId": 6461311,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-15T16:24:39.901Z",
+            "updatedAt": "2023-09-15T16:24:39.901Z",
+            "tags": [],
+            "classTitle": "fetal head circumference",
+            "bitmap": {
+                "data": "eJwBQgS9+4lQTkcNChoKAAAADUlIRFIAAAFSAAABWAEDAAAAO4DmygAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAPqSURBVHic1dtLbuMwDAZgD7roUkfQUXQ0+Wg6io7gpRdGNJPGiSSKzyDCuF5/MMifdAu38rJ0ly+l7IvqulMl/iqPKytsPG2R6feTlk204WXFG39VKt7YNfYm2NhYIYq2hFIOdQlSd6G3XBF/esoW8Q0sV4SHlikiQMtsG6TMOL4GW1bKutGSBQ+tMQXH0ZIFj5QsGGmNLHiYGlMw0hpZcMAsUTASw78rYRQu5Hlt6hiIHUZjIJpzuEWb84TNiA2ExZqLhEWaIyJDmyMiQ5sjIivY5Bxpx+Y8ace1pO0YRCDt+JMq0nYIgqZDEOQoyhgEPYoxCHoUYxCchRvhGAuD8JwFQQTOZoMFoUXOgtA4CkLjxlbA9gi2C40bcQGhcWMrIDTBdqE53u4G24XmedttWuBtsdg24CjYZLBtwALtApZsE7CwOl3Aom0CFtastAHLtgYsrFlpA7ZYJ9pssHUYXrS7wR4GW4cRRFveslG2q8Emg30NQ6Z1GB+2z8GJj0Wpg9PY2xtWfoTKa3Aquxpsslv50SyvIavsNsmeQ3Yae0yyN4M9h+w/bleDTZNsNtjHkMPH7T7JHpPsY3miypZZdp1k0ySbJ9ltkt0n2Z9F01GTvU2yZZZdL2DTJJsn2e0CdtfvuskeF7C3C9hyBbvabJhh0y+zeZ71Wrv9MrvbrPtN9rBZ1bvTTHuzWdW76YWs5t3/cV3Dqn8hz7RRa42/MCw2XMD6C1h3Aav+AZFsVv0gT7Tqh9No//vbSDI8yFYbJlk/yboLWO2DYbH3t17tslutdtmtVrvAq+HPK2YbJln/eXun2kUzW+Wi/Vjl8pitcnkM9vw7v8XGSTYYrNfYw26dwaoWwmLP//uoFuK0qiG/YVULsS36Ib9jg8F6hc2LfsjvWM2Q06If8tNqBve0msGt79go2yc1/UPfG6wTaT2AIA/DYushCHlw1cqDa066iLY5QRMNNkh2q9YbrJNsrlYMuLFiwKlaMeDGigGvjY0GGwTbUNNpMWewQsDdiTUh4M4KAfdHDXm7dTYabGBt7qxnbeqsM1g+4LWzfGhLf3EUHlONBhsYC4/KesZajuBuwHKbBi0XWgbWchSZC2KF1tMWUmZ7xvPmdBDj8W06CORrhUhZGC8XxBAv09wQL7MRQ7xMcyMlp4x+q0A0h34D4XGLfgxCNIdERjaHREY2h0RGNodSfHLE50zoWlIf8ahjIArGY8ALJihWMP3hk741rGCqNaxgqjWsYJKODzP3EZoHdmMsLIIudxlS4ygogv84si8is7ZPgqfdOMTvM7Up3K/anfStY3vjLFunv+1rM5PGLuIqgDvDu/4FZxFpHuGeB2cAAAAASUVORK5CYIJEuvz7",
+                "origin": [
+                    247,
+                    97
+                ]
+            }
+        }
+    ]
+}

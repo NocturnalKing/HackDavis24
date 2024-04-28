@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 540,
+        "width": 800
+    },
+    "objects": [
+        {
+            "id": 44970107,
+            "classId": 6461311,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-15T16:24:19.845Z",
+            "updatedAt": "2023-09-15T16:24:19.845Z",
+            "tags": [],
+            "classTitle": "fetal head circumference",
+            "bitmap": {
+                "data": "eJwBJgTZ+4lQTkcNChoKAAAADUlIRFIAAAGPAAABLQEDAAAAyoB+QQAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAPOSURBVHic7dtBbvMgEAXg/OqiS47AUTgaPpqPwhG89CIKv9zENphheG8WVVSFbfXJzLxxq9rmdhPXV875Lv+os0L+WTMuYs6k8flYEya+T5EfGMnlWshtbQsQ/2qRV/oiQAeuFwGqcQ0ZVhNbknTx1YrRrDXFjxsgCb0B3yJRpyaIRB1oWWg7k/el7kzsl96z2COpJ6Qcn6ubpuuS7pyFPpk7pC96be6X0i1GKaVXjFJKrxhNyMW0d/2wmN6APZc4Zl4l4pgFnSS2erF+LchtCfXr1WcpTD8ibf1hRNr6R6KtX89+W039w+rb/N2QNPX7MZkvJI7JtWVjcf1DO25Y07Jxw5qWOYBcWuYRUrcsIKRuGSLqKUMaduny6JZ8rqplSI9zfWM6jJRd9hgpuxwwUnY5YqTsMibKLmOxVLOMxVIFA8ZSBuNQcgbjUXIGE1ByBhNRcgaDijMYNJYiGDSWIhgDgZM8s3Q42bP0ONmzDDhJdhJxssePiz1+PPwjfoY82PAPQoS/x0+RiZ2XnXiGzDxJ7LzsJDJk4cnKjpiJ3NkRM5EHO5UvQo3Ycy5JMrFTaSIzO5UmkmwkcGSxkciR1UY4YSF3E+Ful5/pNxDuDjORbCLkTbndY79DHEvm9yWeJeldycL+gvlbZGV/8/0tcrcQVnwITR4f8iEf8iHvREx/LD6EJYEl658iniXL+xLHkvRLhP73zUBmC6H/4TWQyULYRwQWwj+IyPwTEgN58A+Ifofc+edjBrLyz/oMZOEfdRpI4h/bGgl5j802Qt4wE0/45/yZfwHxsJLAkLuVeIas/OunxUqouUz0C7vXSy4DoYbs+faNGrKbmURc7K+rA0729+geJ6udOJwsL0JMTHoRIv75RYj4d0JkOfFkF3j853cnASXn1y0eJec3NA4ly0HgLNNB4CyPWPAsTwIHM50kguQUaDDlp10eI+U3dw4jS0HAYFJBwGCKHqPBFD1GgykF1uX6i0OPkPq7RoeQ+utJqMupIlDL5opALZtqEgFSC6TL129n3Zhcz3UALVsuBGjZpWFIy6YriSPRfgbuR6T92NqNSHsQZnhjpoYMW9ZUP66/FaP6pU/tnU6kY0CD+tvqb6P8heoH8y+fNFGLkU9NqPO/iEQNcxaJGqYstDB7p1mUYuRSbloynVKUZPrnf1yP9M+ZdccsdUm3zX3Ra7N2/KuzM2VfvZ1NGhF3ph9LE3em7kvemS6kORueFySL35bjit9Wc2/OQ3LtM3TIlL7IpRrgeOW2Ap6JsDVoW9s6upZQcVwHvsZzhW4Z/wH06wUH/skkdQAAAABJRU5ErkJggl7B84w=",
+                "origin": [
+                    249,
+                    173
+                ]
+            }
+        }
+    ]
+}

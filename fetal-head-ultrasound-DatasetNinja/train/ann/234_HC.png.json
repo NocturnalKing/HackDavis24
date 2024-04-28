@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 540,
+        "width": 800
+    },
+    "objects": [
+        {
+            "id": 44970619,
+            "classId": 6461311,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-15T16:25:14.992Z",
+            "updatedAt": "2023-09-15T16:25:14.992Z",
+            "tags": [],
+            "classTitle": "fetal head circumference",
+            "bitmap": {
+                "data": "eJwBCgT1+4lQTkcNChoKAAAADUlIRFIAAAGDAAABKgEDAAAAzbmudwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAOySURBVHic7dtNbtswEAVgB11kySPwKDwadTQdRUfg0gvBapU4LH+GM+8RsJE25jb4IM68kRFL9OUirffjz1rEP8krHB8rsQAn7shrhcDbUSxuT+e6AuD9qNZii1gL+yK/joO8SGhFMsBbC8x2uV5suoi92FXQ1W3W7iWRNCEBdVviptRtiZtSuyV0St+WEN/nGgo3EutIhJFIIzECw0IGvT3XQpYx7O+wjOGdOAaDQoZpnEsU75pYJeE1kSQRNSEWooHjJgAlv3MtZOFihl4XQulRF0LpOhBKVxM/V1e6UbiQurNEV3qwRDfw0RJdsyzQDbwxI+dqmmW2qmuWs0XTLG+LplnRFk2zbNBMljlV52Kb2zQLaG5zGzpEVO31iKjaGxBRtTciomovAqr2QnFU0wvFUQUCxVEF4jBRBOIxUQQSMFEEEjFRBIKBIhAwjiIQMI4iEFjkQMAAC+FQkSP0qMgRBlTstMgRRlqgIIcOR55DJ8RKRp4FHHkOnRCJHJIsPC6utNjJIZkRN3Ksjq8xIcCEWMixuo8JL4hBvA8WL4hBvA8WLxwjrnPCM2KfE4ERtzkRGXE8Qyzk7TEpqNvj4wZ5uNjIG+o5IpG34Iy4zgj3/cQ+I/yjxe05IjxaHN9VxIeL5ceKlfxof4l/X2wv8RI/RszcUfElvpUIpFj+G+EfLuj/RaeE+37iNiPI71HPEDv9nfMZ4kp/P3+GSPSzjDkRKbE9SQRKrFPCU2KZEo4S9BPIg34uyosb/XyXFzv9nJoXV/p5Oy8S/d5gY99NTIiVfccyIT7eTVDD+ymYUbyw4v4ehxjFuyAGa6fF16tRXkRYpLsIsNimhYfFehcOFsuFDf0yLeAxyW+R4dD/Hk9Axd8jEBEUKYsAii0L/zCxZuFAsWSBRpgBGmFx9gOMsDzwg4nyUFGERCpEgMRWCA+JtRAOEkshsEAKgLW3PnqGiPp4WwREfYQuACJVwgNirYQDxFIJZHorgLS3PTFqi/agZTRFaoQ3xdYIZ4q1EfYsNsBuVn+41hL9Ad5giLZVdrPaVtmlL52wJqsDVunSoe2oCumEu1dFX7hVel+4VboA9NLlY/dBEUkUThGrKLRCpMLVQqQj9Hoho98KjQvZBmJcyKCMcSGjMsaFpKEYFbIOxegDZQhG94j2Oyx5W5si5G0pQN6W/uMwaVvapuRtqUAKMRmin63FEF3t+g/DztV+CK2maC5iX6K9CHCJul3I7wfrTCBQ7gvaU0lg8LUx+W+/Ab0KRgf2Jy7sAAAAAElFTkSuQmCCsTXJfg==",
+                "origin": [
+                    174,
+                    80
+                ]
+            }
+        }
+    ]
+}

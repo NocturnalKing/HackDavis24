@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 540,
+        "width": 800
+    },
+    "objects": [
+        {
+            "id": 44970299,
+            "classId": 6461311,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-15T16:24:39.898Z",
+            "updatedAt": "2023-09-15T16:24:39.898Z",
+            "tags": [],
+            "classTitle": "fetal head circumference",
+            "bitmap": {
+                "data": "eJwBqQRW+4lQTkcNChoKAAAADUlIRFIAAAHbAAABRgEDAAAAGEyn6gAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAARRSURBVHic7dxLjuMgEAZgt3rRS47AUTgaHM1H8RFYZhGFmUziB6+i/qpMW60O2+iT4a/Ckfyapt4w6e9Yuj9T4yM9R8DtV9rGjNrPlOQ6ZQOzLsdXxH6lYkTxpLGJmxpfFAfmV7txYP6hW5Z76Cpq5NC+jVmBf3Ysq9a2h28M3LOc/dGJixeZ6+NxZIQdnpKIWY93pqXwaN6kHcy72yGPQedtaEzP2w/wTNiPgSXnTRbqPqj+tiNMnRJGS6aKNVwytejhkqlFj5dMFMszcOxhhu0uetDYj9FbtOHgXqUdCy/yvHqLZrTIfbQXzcordRZtmHhuYcvEUZ5X5wTMtM3EuHk1E2Psx+doJGbZuJGYY+NGYp6N68SYzflvVInxw24kxg+7sSsNgKtd6QBcxe0BXP3TIraMG6lUFTdSqapBkUpVcVsIF3E7CBfd7SFcxI3ZPG6sUkV3Y5UqaoVVqqiVAXEWtwVxtjUcio+18iieNfhYK9Qea4X2SFYrtEeyfYX2SFZoA+NDoS2OgwbvhXY43gvtcbwXGreHQgvwVmi8wQ6Fxhss7YXGG0yL1y4xErx2iZXgRYPXLnESfHkF9hK8tpjEbi0mwkne2loc5PtibTFRa68tpsJGhqMGX+T7Qomv8n2x9ucZOMl3ZHr2pwoL7aO5NVi4Ix/NfQ6O8nPBo7nPwVf5iUSJb1pspDidh4MS23PwfBpe5CfPM3FUYi/Gl5+Jrz8T3+T/cz8Wp9+IwxtjY37jb8TLG7/xf8b+jb8RuzfGsP2F2PxCLL5mcP+LPQ+Lr9Cci8XXw5Q46LDin06LvRgrLtfqsTsF3+TX9F+AzSn4vEuu11OvUYs3tApHzb0IFV40918WzW0jFZ4V99l0OCjuLT6wdGdo7qcmzW3gm+YGtAo/b9mrsBfhywuwE+E4KW4iP7ER4eUFWNaf86TozzApWuyJZS02KfD2zJLXYCfA26NWVoC3h7yMBku6JK5Y0iXLiiVdMr8ES7okbNjjeLOCLjk8Omk12MBY9cSn6lnTuGO80MuOdU/2OhSHA7YoPljdc9RorbIH5tFaZY9/o7XKn/MH8ZJhh+E5wxbDIcMGw5kFa1W8nYDFXb6GAuHyBRiP4Fhgi+ClwAbBc4GhuAsLxV2/JQXg+v0sx8f1C4SWj8uwocTKsKGTSagwP7HWS3yei1uvD1oujg1suLgOG0isDhtIrGW5ibXfd7c83H67ldljrbzYu7KZF3fRbcvblb3vAxgOVr0C3c5r4rVJ6GE3tv0Xzs0Y9191Zyy6u2ROpbtLZrQ39WGBYXtTnzQYtjex5HGxiCUPi0V/K2Qw70jiQbFmGtPzpi097+E3Sqh5D2ZNz3tkqXkzPkbj5LMm+pvzNZluZJGDe5EFDu6cB5mfDbLSuO6jWS32N55ah2YeeGqtGvi4VB144OOq1vyPQ01VZqzm2kfepMik7+O47AW0R43b/W8vCOx90FH9AVmMTk9TmRN1AAAAAElFTkSuQmCCkaZSAg==",
+                "origin": [
+                    160,
+                    77
+                ]
+            }
+        }
+    ]
+}

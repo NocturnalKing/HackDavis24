@@ -1,0 +1,14 @@
+{
+    "classes": [
+        {
+            "title": "fetal head circumference",
+            "shape": "bitmap",
+            "color": "#370F8A",
+            "geometry_config": {},
+            "id": 6461311,
+            "hotkey": ""
+        }
+    ],
+    "tags": [],
+    "projectType": "images"
+}

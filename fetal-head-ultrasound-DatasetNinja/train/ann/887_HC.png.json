@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 540,
+        "width": 800
+    },
+    "objects": [
+        {
+            "id": 44970356,
+            "classId": 6461311,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-15T16:24:48.333Z",
+            "updatedAt": "2023-09-15T16:24:48.333Z",
+            "tags": [],
+            "classTitle": "fetal head circumference",
+            "bitmap": {
+                "data": "eJwBQQS++4lQTkcNChoKAAAADUlIRFIAAAFoAAABTwEDAAAAWoLGGAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAPpSURBVHic1dtLbuQgEAZgj2aRJUfgKBwNH42jcAQvvWiZUSdjNxT1tFSS42X0Kar6CzLTblgW8MTWWoE/pJ7c3s+mw7H9PFWD/7bz0dfxfnYZf7XPU0SdOv3SV/1+VkHHQUuV50ELsYyFSJlHoPk+QSF8n38gZldLmDRXSpo0V8qMmVRgfnwpc9mNGVDEdKF0xvRG4DltrvAvVFOFo02ShSdcE4WjTVKF401ShWOTpAsnIiEKj5RG93Ki9GGIpKFrnIwEbZOMBG2TjASdT6A10makNdJmYvTcZmb01CYTIDJNJkCkTSbANi/awGoYSmR1NWkYSmI1DCWzGobCYhgKO5wGQ2GH02Ao/HBgKEHQu0mP2ycKeowwCXoMJUu6mPQQoYSHCKVRjhHKuo9QGvwYoTT4NqxChe4CD7LuAo+yribdBZ5k3QWeZf0y6S5wGfeBa/QVuLxMWhe4Sl+By4uqdYGr9BW4YlF1gav0FXjQ6HZPR5VeTfocT1LpatKbSZ/jyQ76HKYKX8PU6WbTq34zmHUx6arfOu0cpo/e9RutncP00YdJN8MmNuvVpItdR62uJr056l3/58SsXyZ9OOpm11mtV0ddHHU16c2s1fh7WXnp12P04aibp14ddXmMro56e4zeHfXrMfp4jG7P0aurzm66/FJdXXVy09sv1bv+f70P08FNvx6k1Z8BH6UP9Wduf619D+Gvn/LP62H5UOKtk143Xx0fo4OjtmxjX23ZxiZ96F8+3tGun17zY3Ry1NFRB5PWL9mXWeuXrF3rl6xd65esTe+mV4SeL1l3++tetd5Mr8A304v+G1q9rL5fr6sXyg2tXig/Oit1uaGTSUelXm/oYNLa0f9o7eiXG1o5ett3mKfODvr87jWZdDTpoNLnd8a6Ydr0tliGeWrdMOtiGeals0aXUyeTjhq9njqYtCrw5Z7WjOdzeEYzHttRG9sxnk4nWXcHiqKst48OJq0IvH60IvBOKwIvH62IcO10Muko6g7LEQ6nCMUIhxOKYoSDFiMcz0pKeht0EnQddDTpIOgyaCnCddBSKMv48Bieqc2shme1E6vh6d7A6g1oPpQKNL+uCtB8KCvUmdMQsytlPr4eGD0fjefanO8LcCsFxs23CeNe2NlPcbNtTnFzbWLXHOg20bsfZJvohYtIaSQSpk0kEqZNJJKFXLTozQ9yPsQ9HqLwDddE4WgkZOF4k0ThRJNE4eQtK7Rwokmi8ELqiGgSY3/fuHtqlrKxDOmysVIYPG83/tIhLKWyGpbCYriXpauVwVAI6JNcf9cTlaOZf7mI+8rlX718YpGr7mspKv2fK/Hyrn2eyz9DJl4JV2mkigAAAABJRU5ErkJggu3XD14=",
+                "origin": [
+                    194,
+                    122
+                ]
+            }
+        }
+    ]
+}
