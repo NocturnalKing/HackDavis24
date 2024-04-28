@@ -33,14 +33,18 @@ def gblur(img):
 
 # # #Edge cascade
 
-#canny = cv.Canny(blur, 125, 175)
+canny = cv.Canny(gsblur(img), 125, 175)
 
-# ret, thresh = cv.threshold(sharpened, 40, 255, 0)
-# contours, hierarchy = cv.findContours(thresh, cv.RETR_TREE, cv.CHAIN_APPROX_SIMPLE) 
-# # cv.drawContours(canny, contours, -1, (0,255,0), 3) 
-# # area = cv.contourArea(contours[0]) 
-# # scale_factor = 0.1 #bad value to use, originally was 0.1, i dont really know.
-# # size = area * scale_factor ** 2
+gaussian_blur = cv.GaussianBlur(img, (7,7), 2)
+sharpened = cv.addWeighted(img, 3.5, gaussian_blur, -2.5, 0)
+
+
+ret, thresh = cv.threshold(sharpened, 40, 255, 0)
+contours, hierarchy = cv.findContours(thresh, cv.RETR_TREE, cv.CHAIN_APPROX_SIMPLE) 
+cv.drawContours(canny, contours, -1, (0,255,0), 3) 
+area = cv.contourArea(contours[0]) 
+scale_factor = 0.1 #bad value to use, originally was 0.1, i dont really know.
+size = area * scale_factor ** 2
 
 count = contours[0]
 print("count", count)
@@ -86,7 +90,10 @@ cv.imshow("Pregnacy", canny)
 # #works the best so far
 
 # # #Edge cascade
-canny = cv.Canny(blur, 125, 175)
+canny = cv.Canny(gsblur(img), 125, 175)
+
+gray = cv.cvtColor(sharpened, cv.COLOR_BGR2GRAY)
+
 
 ret, thresh = cv.threshold(gray, 125, 255, 0)
 contours, hierarchy = cv.findContours(thresh, cv.RETR_TREE, cv.CHAIN_APPROX_SIMPLE) 
