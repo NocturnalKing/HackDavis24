@@ -1,4 +1,6 @@
 from imutils import paths
+from CVPregnancy import *
+from ShapeDetector import *
 import cv2
 import ShapeDetector
 
@@ -20,6 +22,10 @@ def testDataCarousel():
         cv2.imshow("Frame", image)
         cv2.waitKey()
     cv2.destroyAllWindows()
+
+for trainingFilePath in trainingpaths:
+    image = cv2.imread(trainingFilePath)
+    gsblur(image)
 
 
 trainingDataCarousel()
