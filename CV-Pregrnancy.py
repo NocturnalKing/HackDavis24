@@ -24,7 +24,7 @@ size = area * scale_factor ** 2
 print("size:", size)
 cv.imshow("Pregnacy", canny)
 
-""""
+"""" commented:
 laplacion, edge detection
  lap = cv.Laplacian(gray,cv.CV_64F)
  lap = np.uint8(np.absolute(lap))
