@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 540,
+        "width": 800
+    },
+    "objects": [
+        {
+            "id": 44970591,
+            "classId": 6461311,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-15T16:25:10.333Z",
+            "updatedAt": "2023-09-15T16:25:10.333Z",
+            "tags": [],
+            "classTitle": "fetal head circumference",
+            "bitmap": {
+                "data": "eJwBRgS5+4lQTkcNChoKAAAADUlIRFIAAAGTAAABQgEDAAAADrCiqAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAPuSURBVHic7dxPjjIhEAVwzSy+JUfgKBwNjsZROEIvXZjuL0Zl+FMFr8pIJka2k19sXr12JtrM6USv83FbF+an5Po57mvHyfl4ritsfDZHAok5ihWEV4bnYCsDvdBPTaAXal4GeaFzS45takxn5oP1nTnihLQJICl0CdzWxFBkUqB/pBlfnCPN+OJoMkyOvrTxWMnUjvFYPWMGnaMGel+JNYY1fNqONfyGWMJviN8OvyF+O/yE+O3wb44DwlVutB2uclzZ7osOwQ4NPVU/NGQI/RtbveQR0E0wE0OFYCdmE0dAhjCLgLodZhFQIZipieIIqOD81PTBTUkf3DQ2IrjxjXBf8tj6sC1g2rA9YNrgANLeqkBsXdjzth1d2AYxTdgWMnXYDjJ12B4ySRx1MyAo6mZASEOPZkAGM9WALGaqATnQlAPyCgOScqhg1NVQoVbfVjFUcDzVUA1qiqFahXGoKYrgUVMUASbFUBUGHmlRBHikRRHgkRZFMApjcZPL43BzfcV43OTy4CQbwUhz4QQjzeXRGEENcuHMu00SVycXzimMl5iL3kjIo6Si6qjMLq/OC0ZUt8fNYN5vgrhuOhPFFX0Y/36TxBXVmU1cUb2RVfR+o2qMsNYqc5XXWm3sArMrjVtkvNAcC42UqEwQ33IrjfQ2XWeiykjfDlYa82HGik3608Z9jfxt9GvURky+ZqGJX/OnTfgalVH8CftpZv8wc9UZv8JcPsxsOuNWmLTIRJ2xK0xYZ4zUKD5G0phdaTQfpa0w2o8TpUbzUafmI9W0yETFx8oaE7TGy4z8G6OHcSKyK8xVbazIXNTGiMymMEnx1ZTGRMXXZkFtZDfdSW6eX2+/2zy/rvcC83yUwAnM9oKxApMUJj6MEZjwMJKSnl4wgpLmpykEhbsqzO/jSLjZsvGwSdk42MSXjIVNyMbAJhO8CLvCFE9xweUpnjCDi/A7UrwIqTAeNLEwDjShMBY0J7mpnoI0mKmetgSHWkaNDrWMGh1qGTU61FAZD5mKYENtngi2iGmeVjaI2WoDDSjVBgq7jhoLuyFI2N1T625uuqfj7dxsrTFzk1oDNLuNDQm7JUDYxCkJPzPEMRY7M11sQHBdBEBwoTez4MhzUxNDnuRxY0NEMA2OiGB6q1JkEgJzdGxomCNqbmQSbczIBNqMQuBOwo1CYE/cefF2hlNltjPaEH+wj9/Q4LgmuyF2O4MN8YTd0OjMM7ehbWC4yoWRMSQZH/WlL254aUzaw0ujL252Upy6uDQxVHIzQowVOL0tTeC22hSgs/KNiYipXwg8/C/dzW2V0W0YKW89/J8F5NYJ/inBE4nI/TdyZH/6H2LTwuvV1YE7AAAAAElFTkSuQmCC9PP5/w==",
+                "origin": [
+                    203,
+                    96
+                ]
+            }
+        }
+    ]
+}

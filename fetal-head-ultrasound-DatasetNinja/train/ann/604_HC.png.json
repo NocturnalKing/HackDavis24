@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 540,
+        "width": 800
+    },
+    "objects": [
+        {
+            "id": 44970563,
+            "classId": 6461311,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-15T16:25:08.118Z",
+            "updatedAt": "2023-09-15T16:25:08.118Z",
+            "tags": [],
+            "classTitle": "fetal head circumference",
+            "bitmap": {
+                "data": "eJwBgAV/+olQTkcNChoKAAAADUlIRFIAAAH4AAABoQEDAAAAt2c0AwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAUoSURBVHic7d1BbuQqEAbgHr3FLDkCR+Fo+GgcxUdg2YuWPXpJ3DZQQP1VSExrzDqfYqr+cqKkjR+P1rL7/mx+QXOZ/WtFIXf7z3qJuN3fS7KH3/tlRZj/2pO1oN6lHi3B7z1bK+Z97jfdtwcvoPj22AX8V3LoAhzl+S34RXEgA4b27BQT1ftaTE5WD6igrXnmBmqXz9xA9fKZG6hePjMC9ctnbaBx+fse+t60PKMDruUZQ9jijBkg7hzXFXvetn23g77tex2sjP65gmr73QJ0tt8tQG/7nQJ0t98pQDP8jAKYvm8WwPV9cwT6vDkCjPI1b2Ld9Py/GvcAy/GNAjqObySIxesJYpWvUUBW+RoFNDxfLaDj+WoBPdMvqvJVC8gY3u8VVeWrFtByfWWEHddXCsjmdILZ5a80gF3+SoIN35MNsHxPNsDxPTkBHvBEA4Dykw0Ayk9OAPPm872IBhrEEw2wiCca4CC/qNpHNBBqH9FAqH1EA6H2ERNkMF800GK+aKADfd5AD/q8gSDPGwi2v2gg2P5iAsH2FwEwqM8CYFGfBcDBflH6NAAe9mkAYJ4GAI5PFgA4PpmH45MFyOB+U/okQFbgrwFyAn8NkBf4a4AE/BogQXz0/hIgQfySAAnilwTISPw+zluRPwPoRD4o/RlAr/QifgmgzL8DKIrvxYviewmw0L8DLIr/fgbQTPJHgK3QHwF2k/wRYD/JHwMg5O8AK71wfN4DIIy/3m+68TkGQOuN2C9DvBX7MMQ7sV+HeC/2cYgX858BVHrx+P4M4ES/qcZf73fd+Ov9MsAbhQ8DvJ3o1wHeKXz8C7xX+Odk/1Ld/ub7TXX7m+93vdfcfuf7Re01t2+9D9O9merXj/dW5eM/7p9q726vWK/p3v/Tfrv97Sf6Xe11/Pa313l/+9vf/mO9m+q32yu9vb1ivdTe3F6xnsq/n32+1/39NH681/39XOvX6V73C7jWB733n+wX3f8Pp3vl/29n+035//PZ/qX8/MEIr7kBP/8Cr7mBxgFecwNcR3g/zwfd58fUftF9fk7tlZ8fHOPlN4BtiJcP8GuIlw/wc4iXD3Ac473Ur2O8k/rw7a3UL2O8kfrHGC8dwOMBBukAaf3xAIZ0gN4PgEzy8fBe5tfDuzk+HN4qvZH55fDCAD90/nwATRbg08sC/FL6ywN8Wu8lPp7eSfx6eivxYZw3Er+cXhTAk4sCeH0AVxKg5AHgCT55gNnjPl69w/169Rb34eoN7perFwQo8YIAXbkgQNkBArDPDjDwqM8OUHCoj6m3qF9Tb1AfUg8HYEk9HICUwwEoDhABfXGAicd8cYKNw3zMvcX8mnuD+ZB7MABL7sEA5BxsIHEAkEc8cQKUQ3zRPrCBRfvABhbtAxtQtA+cwJJDDSQP4PJ8Tx4AZvmeaB/UAKJ90AQR5YcaQHGgAZUD5DzXV04QtFxPlh9oAFl+YALI8gMNoDm7gNoDFLUHOFbKx05wqHlmAWucWcDGCaaO4xsHiBqOr5aPmcBq+ZgFrHNWAZsHyNq+jy3PSNDa8owCLC3fL0DnCOhuATpHUHcL0Nw+owDt7XcL0D0Bu1OA7gncnQJ0tt8tQG/7nXsA4wR00/Kx77UHoLc6yHqJgK171gn2jQ1wLr/1ewiLqw/gr26Ad/nVDrBf4WBoH7le+wIGuoLAOzjICga+p4YQegMHcQEr4ssLwF4AUl4A9u2LFuDvgJH2/ljJDlaYJymWvUTH6Pj7Z0kU8sdXEULzC/4Ayu07sX4VdXUAAAAASUVORK5CYIIsebig",
+                "origin": [
+                    196,
+                    51
+                ]
+            }
+        }
+    ]
+}

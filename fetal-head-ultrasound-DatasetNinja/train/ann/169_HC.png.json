@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 540,
+        "width": 800
+    },
+    "objects": [
+        {
+            "id": 44970292,
+            "classId": 6461311,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-15T16:24:39.896Z",
+            "updatedAt": "2023-09-15T16:24:39.896Z",
+            "tags": [],
+            "classTitle": "fetal head circumference",
+            "bitmap": {
+                "data": "eJwBFQTq+4lQTkcNChoKAAAADUlIRFIAAAFfAAABQQEDAAAA6qc+KQAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAO9SURBVHic1dtLjqswEAXQPPUgQy/BS/HSzNJYCkvwkAGCVkIAf+p3o7bE87SPovKtclpJzOPBrLBt28z9sVpxe63FZP22r2Swz+1Yg45PayjbXVh/6cyqVT9zvCk4FngS7U9hlS36Est1VHYbBfussVRHqPEKVCH1palCCq/OQiw6tpgt+qe1fNGOwlzRTXCvlRhMWe4okiVzOyRL5nZIlszNEm3pHdIlMz1kSqZ36BlMnpbIYSKOf5yl4iBm+bOIOLj9kXEEFhPTwe6PyI7fH5Ed17/XarLj90dk5wU82fdHBC3YJmhpf03QfLO3Nmgn4TroIOIq6CjiKmjRVkGLYdRBi2HU2Mm47EqQcdmVKOOyK7ItsXRM3gtIrmyhklzZQo/goOG831HDeQs1m2M1ubzfanI5VpPLh8OpOOu3R3BQcTYcEcG6vSZJjznDeszZJOkxZ9gZ8Dl2HsHBgM+xiwg22HPsLDF/hy09OQfa0pMTOws+BtojOPw5PqY/IthkN6Anx1Ex9eQrbGrgca4cgn03HGx4Ahr4DbbZHRu7vb8XQNjY7R0bu/0FdkY8A93+AgcEx27YaPd3RgRbR+ONraOBY+to4Nh1w74bDl3wCgwdjq0WxuYJhbF5Qvti8zjD2HXD3oyXnjjcA8du2Gy7YvupwvDcEduPYFdsP68YTh2xuwOeMOzvgMeOOHTCw3+IkTfRfni9B77J/5/5HjjdA0/d8HgPPHTDyMcDCPf7lLJ0w/M9cELw1A2P3fDQDSNf9UB47YaXvt9lWXFCvn+D8ITgsRseEPxAvrpE8IrgBcfOhmcEJwRPOIZ+xDDiAcFva/2kieAVwZ/f2Wyfu+dueO+28T13QvCI4OGDowU/AHz+5B7+Gi8IPi8geANOCD56YjqEI4KPnpjO1QPA1zUIw1FZEHzd8zBMf0LwGbNloMcLRxUPCL6sPnYrgvMbUV7D+V0rp+GE4CxmfZKy5PThyKzab+gSV3mXTMHlLbUo46nAQcYjgocCexkXVmlhdd1RbmF1kVJuYSqx3JUyDKUrA4IrK7awuWQbBNxc3/UCnmrsBFyHIQZdWylo4k41sD8pu9TiYN+flF1r+eyoO+NsdtRtdDa7icBsdgOFg71kNg76EQHmzCYSM3GMJGZ2SFt6OrgHjMgd0iUzOxwYTO2Qf4qFwPyjJqHFE4udOTiyaOnJLKAKImnBNkmLzyzVp2WUcBWe9FxRU0eScZmHYos81KfO8i0OGs5eWqs4f2klin09zUW8ljP041o/Ug2/E/s/TGF6Yd4AAAAASUVORK5CYIIcZPLE",
+                "origin": [
+                    186,
+                    111
+                ]
+            }
+        }
+    ]
+}

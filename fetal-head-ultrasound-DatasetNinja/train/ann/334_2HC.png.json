@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 540,
+        "width": 800
+    },
+    "objects": [
+        {
+            "id": 44970345,
+            "classId": 6461311,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-15T16:24:44.263Z",
+            "updatedAt": "2023-09-15T16:24:44.263Z",
+            "tags": [],
+            "classTitle": "fetal head circumference",
+            "bitmap": {
+                "data": "eJwBHQXi+olQTkcNChoKAAAADUlIRFIAAAHmAAABfQEDAAAA6/xZDAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAATFSURBVHic7dxNjuMqFAVgP/XgDVkCS2FpsDSWwhIYZhDF/aryEhvMzz33RGWVEqatT5hzL6hVsVmW/lj/G9fBv4+GWe8jabBdHyPrZ1bN/mfdjwDqAqPRmVJjz/7PWg9E24POzNTI5MepkckbWD55HTgWu29qYc3/NLG04VqZfY2LSHfwepPgf3t6jcSDyx69iyUl7yUue/T+g0se3Q/0NPXW9pI/uhnqPNFuqGe9PsSzmo3q9TUSsexZzcbLntVsgsebfLbs8cJnyx4vfLbs8cL9VA8WPm7y+4hd3T+UtpG72gp0v9WdQPdbXYK7sc175WskIrR+v1iR7sXmRLoXmwx3+kXSaV+jHZsstF5sRqjbsVmhbsfmpToQkbdDl0be3qTSyNuhG7FunW1WrFuhO7luhC7HjV6VR94KXXaw3McxdHnBWp1uAH0M3SH6ELpHdCQKdiwZUrBjyZCCHUNHCnbcJwbSdckspquSOUxXJfOYrkqG4apkWLnrXYaVuy44Vu664AbUZcEtqouCO1RHShcF96guCo7iouBos5QFR5ulLDjaLGtRcIPrQOldwS2lHa537eJxnSm9axcc79oFb7V9u+Ctxuqt2RSNums2o9GR0s92sZR2Gp0p/Ww2r9HPZtNgUj+aTdPm67PZVI3K6kC0+bNVOW10OlE6E5vkqZ1OX16hvU5fKX0jNgmrV2aLsToQW+z/Rj9JJ2KDsjoTG5TVF2J7s/rKa6fVN157rV7P1mr8vcHP0pE4mM7ViTiYWJ3P1epD8ftw+aX6ShzI5+obq+1Zev3N2hE6vKmOpPa/VKeP/nGdSU3gj1aNy0d/9EdPxvVttf/oH9aXt9Xuo39c27fUmdTmTTXxtx5Sp1M18be9U3UkNfG33JM189+ecK72Z2nq95KV+Z2I1Dda2xO1UevryVp/qF5orT/YOJ2Z3/1JnagfJV+gvVZHXjutDry25+iFemWB0veXa7RblNP3l4q0W5TTF+rFngv1SlJ+hfY6nV6hnU7Hu7Zn6LAw2+SOtY1O6cdLorpG514xvVL6+WIup71G54d2Gp1eo61Gx4c2Gh0emnsBXaUfmHzxnnvpn/vggPzYweE6v0pbXKdNG1zHTSvaJWxa0S4b1rTLTuPtUnx/5lFdfPvmUF18d2dRnffaoDrtNVzwuNdwwcNewwVfisFpj+Hq61SH6erLWIvp6lNog+lcarDgqdRgwWOpwYKHUoMFrzBW8MP34xbRh2/XDaJzraGSpVpDJYu1hkpWFwwL/YCRXda42sLKdeOGByD0Q8Gg0A8Fg0I/FAwKvYHloTcv7bFS3byLRBx6I3Ig9Ebki/x4aUUuD72JpbF17kkyMt25c0cYWzNyca+2Q5PGFjraSnD3cikj0d2LrUSxdUJbZN3WC022SbtYEtvgRi7BJh3cBibol9TXgn4JA22neoDnCx9eXDddeB7p6cLjUM8WPsSzhXP39aWJdkMdJtqMMHdHInc/Y5zq0aNP8eh4ktyJ2X/0JND9Rxfg/qPL7iHtPXoU6c6jiy4xXXq9noXaNnUQ6mZu8suCnTqzzuTIPcXHyeVTNybHrkiuY0emXuqay5p0G8XhKm2zbRhFo+zGtvSI4212xczfw6/jzfEXfcPTjATnkmcAAAAASUVORK5CYIJWwqos",
+                "origin": [
+                    161,
+                    127
+                ]
+            }
+        }
+    ]
+}

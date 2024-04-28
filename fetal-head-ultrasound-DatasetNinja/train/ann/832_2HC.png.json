@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 540,
+        "width": 800
+    },
+    "objects": [
+        {
+            "id": 44970489,
+            "classId": 6461311,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-15T16:25:02.962Z",
+            "updatedAt": "2023-09-15T16:25:02.962Z",
+            "tags": [],
+            "classTitle": "fetal head circumference",
+            "bitmap": {
+                "data": "eJwBKATX+4lQTkcNChoKAAAADUlIRFIAAAFaAAABUgEDAAAAicyFWAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAPQSURBVHic3dtLjuMgEAZgt3rRS47AUTgaHM1H4Qgss7DMKEocQ1HPKEieeNn6FFX9Vc5MErws8Pqr6/A34vqp90uJa9Vr/8Q3hf2tx7XKOLzwbnjhWrO24vu1Sbi2l1D1X4eFQEKHhax7y7f4BzDbogeYrSNCzNTxAy2XhxswM/KhZG4uQ8m1Fn3JTHgwZTY8pGS66IBhqmjMUkVj/ZFFo/1RRTscZ31/1HpEHOPrgVu8w18KYx0SYeBjcRTGOgwUxjqMFMY6JC3SIbEZ9yvrk8M6JJPDttTReIzD07gmdcwViSMyeIiDsUMcTMxjHEzMYxxMzHXYDsdikJ1nMYgjsLjoYx6yYy3Mjsd9duxMKsiOnUkF2fEzAdk5ARcL7rLzAu6yCwLeLbjLLkq4zU6y3T0r4iZoadpd0NK0u6BNWFqNbipOxLsFN1PxMk4WfE4lyDhb8DmV+GF8TkW2zVQU+DUVeenqORUTlpeuniNU4WOE8obWc4QqfEzFfRwfI/QavE3Dx7yDBlcTTm/gqMKrBWf17ltxsWPVjXIshxJv0/CuvwXrczmm4KS+X614nYaz+p3AiosF36bhTf0eY8X7NFzNOEzBaRpep+FsxVGLyzXwbRreroH3a+B6EZyMWG1teL0GzkYcL4DLNfDt2/H27Xg34vC/4XoZ7L8bJxt23461H5euhLUfS6fi1YaVn+hn40v8V8aK4zVwUOM0E/trYDcN698LpmL97W3F+jvWhPXfdU7HcRoOM/C8L7R2yzd2dqxd6M2MtQttx9qFNuHHF/LzcLTgoMPFjv0EnBfD2j2wcpNMeF0Mm/QGVm5SWgzL8Q6OKvywM371e2KvscePj86CVfPe3sGqeR9YNe/X7/Qfx+XA0YKDAucD+0/j9cDOgjUjTAfWjPCFNSNcXteHcXP8JVpwEHFzCseLuDnf4yxYnko5sTyVBstTySe2HbqKFhwknBrsJdxYOegWS0F3h9ukoLtjc1LQ/WFGE448Lh0OPM4d9jxeO+x4nDosBN1jIbulv1gLT8VGDsPztoHD8CSv53ABmI0jA8zu3Qowm10CmI0DWi4O01ns8ZQ3E8d4fpyJA8ZsPMbOxAFjZuMYLX2zYIf6yTiwpzjIDtGnJ6gOkTDoDpEw6A4ThokZ4s9wEB0Sj7TgHRYce30Y1FjQ/qiicYsXTT5nhBVN9IcXTfSHF030hxZtekSLefhrXA+y5AX5B4AueayDfRQOhlc4DOtYWdzXITzO2OfBVwHmkgTctig++di+dBbx+dLy05rNS8svfAYiV9wUorJPPfz1HzyKK/zaC13OAAAAAElFTkSuQmCChqEDwg==",
+                "origin": [
+                    133,
+                    82
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 540,
+        "width": 800
+    },
+    "objects": [
+        {
+            "id": 44970892,
+            "classId": 6461311,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-15T16:25:41.724Z",
+            "updatedAt": "2023-09-15T16:25:41.724Z",
+            "tags": [],
+            "classTitle": "fetal head circumference",
+            "bitmap": {
+                "data": "eJwBrQRS+4lQTkcNChoKAAAADUlIRFIAAAGPAAABegEDAAAA2wtGDgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAARVSURBVHic5dxNjts6EARgP2SRJY/Ao/Bo1NF0FB1BSy8MKQnGtkSyf6o4GELw0zb4YHZ1UxPYom439Ur732vV/10RlIn781pQ8Wt/XyjJBwGXFvad/ZizwD7md0Ggj8klWXzxqxT7wyexIvvkklr4K/vdEHdlqSFeZv+1wltZu659v9Pr2jebCMKJWVqXU0wUiVlMFolVjBSxU4xcyr7POkkKWXWiCGPMtFKM+rVSjPqjShaNZJVo9aul6PXrpaj1B51oOzMZZJaJIZTIjOq1yIzqtciiReTIkkXkyEwhTplZvRyZWb0cWbCJdJdJNpFSzjYRUnaql1Ku/0Q2V5uyE5g0y9EjCxuY1JjskaYxbmBtY9zA2sa4gbWNCT6pG5N8Ujcm+6RujC9q4mfc9NLPuOklkHHdywiQqpeJJxkgVfsRUbYfybhqP5JxRZCMq/YHiBTtjxAp2p94kiFSTAwkivZjbSkI1pZiYrC2FCSA5DRkESSniUk8ySA5DRkoTgRsy3ku0bb0kGMu0U6e5jLwJKLkmMvEk4ySYy5h8R0CN/+YfriTB4E7eUx/Bwk4eU1/5EnCyWv68xCCi9ceI5r/DULMy2tbEs3vIRs9Ly8SeZIIsneTPIQw4mvzM/PST5gRe94vmHnpJ+GnycJO5ZOkISRTZO0klOgl3FT2kDs9yL2EG+ReEoaQyJFHH0lDSB5CODGIbPR26STkdukk5HYZR8JVSRxC0lVJviohxZUJe7cYRtgbzJUJe08aRB49JHwQiR9D7oNI+j+TtYfkjyHLRxFW7PMHkemDCP+/njHkwv/po8njquR+VbIOIctVyXxVMg0h/Hc9Y8g2hHR+O5Y5ch9C1quSZQiZ+S9tO8g0hPC/1+z8D0kbTx5DyL2TBIqsQ8jS+TPij/++OQ0hN/rn3W0I+XrqgPqur4PcebL2EurP2MKTuZtkgkw8+RLM7XIbQl6PqEWc3HnybD5zi+kgC0+ezWfuF1M/ITb/jSbvxwDxbfngyfHg5E+S9U0yShaezG+SUDLx5C3gDbN9iwSQPHhyepobnf6jk/AoLzw5OgmP8sST2+nCRHEuIUPkwZOO5/LXM4kQWc4kQGTmyXQm2JCdBTYxG0/KcyzQxBQZYxOzlCQDZC5JAsjEk1IgE1OfyAo+qc99Ae2vMkZ6WWWM9LLKGOnlVJPsifZsYfJIe4LRJe05yeiROjCgl01gfi+bwNzGSEdeHdJx5HMVSLJJG5ibchuYm7IgnJTFM8L2jpEP75tEqt5JWareSVkUZsrKoXIrMuXVBVZkcvVmZHL1ZmSKMCJT30IQVLJqRK9fK8XYy5rQ6zfe26HVr5ai16+WotevC63/5itI5GKMUrT5nywizn/H20Q63lky2yQIxBZSZ5x1SWPmrEuI2clLWtnqkmZlk0+qzICX79RbcwZI2U2/+H9XEcACkfPHIJX8u07VTCA5QltR8V6aO12NocTfK5qL+gPlqB7g1OGCBQAAAABJRU5ErkJggimGQxI=",
+                "origin": [
+                    169,
+                    36
+                ]
+            }
+        }
+    ]
+}

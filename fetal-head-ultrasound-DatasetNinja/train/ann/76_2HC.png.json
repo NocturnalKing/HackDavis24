@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 540,
+        "width": 800
+    },
+    "objects": [
+        {
+            "id": 44970462,
+            "classId": 6461311,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-15T16:24:58.086Z",
+            "updatedAt": "2023-09-15T16:24:58.086Z",
+            "tags": [],
+            "classTitle": "fetal head circumference",
+            "bitmap": {
+                "data": "eJwBXQKi/YlQTkcNChoKAAAADUlIRFIAAADZAAAArwEDAAAASgvp6QAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAIFSURBVHic1dhBkoMgEAVQU1nM0iN4FI6mR+MoHsGlC0tmEhGa5v9mylQqMyzzSuj+WgbsOjmGEILv8OjDY0zQ7k8LG0R3IJw4XogvPS9Eq96ShYWUSuYdM1bzillDmPmsIay01p+xKwzFKBe9l1gu2pdYLupKLDsNahhLlhX1GmVFTuMicNQoyr1pkxlV9chyq3pkuUONntcje6kt91IXK3r5ApiiB8XmRkGxuVGH8GwUdJIbRXYiSDakFFAnKYUe4mp0cqKDuBmdnBFBi4juyWO0EWcQw8UZROwJep5BREdwbuJIcOEBHcgysHE1AnoiC8jGzUivjQPD3UivjeMlDEbuTaS5N5HelNeQ3rEGTvyOvYbDB9C9A42H74Hjv0Ju+1/D7T24fgCXyzi/B/1lnKwHzMTWu5hi8xXvGG6XcbVwsf7KTJxb2DP0Fk4tpH8A1lZptzZZm4WrtXczcTH2i3F7S9Ab29C43yZo7W73X2x9B4hx09xDPNokyc8WHm2S5I82SbhdHMh2C9MhaASYjk8O4HziwDvBEU0nghTyAROkkA/LIAVxbjWKRb34jHUv2epe5OG9Klce+6tyRT11uZNEVW75kUJVVH5pUOkWS+qKiiXVw6C/iwx8SbWoV1gs2unh+KxFp3pWOa+utZh3AZhuG7B06QzxuBR/PYtBEHvM7NUP333ua4videPqAAAAAElFTkSuQmCCRxgSyg==",
+                "origin": [
+                    436,
+                    203
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 540,
+        "width": 800
+    },
+    "objects": [
+        {
+            "id": 44970514,
+            "classId": 6461311,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-15T16:25:02.968Z",
+            "updatedAt": "2023-09-15T16:25:02.968Z",
+            "tags": [],
+            "classTitle": "fetal head circumference",
+            "bitmap": {
+                "data": "eJwBMQTO+4lQTkcNChoKAAAADUlIRFIAAAGIAAABOwEDAAAA/dOEvgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAPZSURBVHic7dtLbuQgEAbgjGYxS47go3A0fDQfxUdg6UXLHnU6TfOoov4fyVaUNNvok6kHjtrAx4c0jvuYxT+J4+/xGCsK/hzPsYAiJHFgwL3AsXFzQuc1FeLGPgJ5yFQJ+yFHPayH/GuElS7fCKMmddz3sXaFE0Q/9iCIbg9Lk+pPS5pUf1pCpoxsyaAzrb+K0Is4KWJXRVCE2ltybu8jKqLtwufQ8quFcaj59bpQAtGBEohWDT0Q1xFyRTqBKx0femIVgF6/+5Baqxe4HLrrCqmGU18sZOBi6H0ghN4PXApdb/WvwaZKqLq3RBN6sEQkU9Umy0pV2/BmqppkOVtUyZpsUSXL26JKlg2qZPUX4GOUnWUn96iSBSS3SpZDxEImt0qvR0SR3oCIIr0IKNKLlOMo0guVo0gvVI4ivQ4TWXonTGTp9ZjYaJGlN2AiezlgICsIWMBMgAXMSggWMCshLFIJHSpSCSdUpBJ6VNxokUoYaIGCVwlxMZNNkkoIN0kqIS/gJklFd7jYaHEj2yoJj4udFgfZVkNiJtvq2Sa0IBrxq00oEclGHBEb2boj4ka27ojYyWY/Ho3FC0+J+QKxkMtjRKzk8hgRcURQC+qzea8Q1BL8bPfTxU4u2mvEMSIcKeZvKRby5XONWAeEP13EHyI28rX7XcXt14p9QJDgF4vjLd7iFBHe4tcJ/xawmH6IcKeL/ZsK9nfUFeLG/kq9SJC/6AfENiDYf2tXiMh+KbpKeE6sI2I6Wywjwp0tZvqjzJAgly37ZftTcItwHxLckuLFjd3/GBAb/WmbF5H+4B7pbQBerPR2Bi8WeltmpjeLePFBb3rRW3H7qPC44Dc6t1HhcBEfgt8UPnWrenkIfgOd36Qniv4FiKLTIh1PmFCRDk04VKSDGXDRk4BLGJ8CLuH6FHAJlyQCKOYk/GkiAbSE2TEkh4nsqBNYwuw4FVjC+BJgCV8FRAuyZMJDYs7EBIkMYOktjoxC6S3OTULpLQ4PQumNuYBWyFqIAIilEBMg5kI4QBQASW91ghdIb31A2haxEsEUayW8KZZKOFPMlTCT1ZzuNzurPUtuifa8ejBEnSq7s+pU2aHXqTL7RLoI0RfSjYPQFVEQU1e0qbJCbwM3QpdvgPSEfMvEd4QUeL/hF1H0AhFBLxDtMpIeiHbhSQ9kVYQeyKwINRD9TpUWiH5vSwtkUYX2QlGBtkZ6d9zkacWOkPM7d4Q4rf59QGlavUnJ2epOSiqidUGzfT+shmh7ywJN7NEU9UNsUD0EeET1EAQU6Vohkb2zgRu5jxGoOeUEB49YoviX/3z3TgBt7VncAAAAAElFTkSuQmCCJ5zilA==",
+                "origin": [
+                    238,
+                    120
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 540,
+        "width": 800
+    },
+    "objects": [
+        {
+            "id": 44970336,
+            "classId": 6461311,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-15T16:24:42.061Z",
+            "updatedAt": "2023-09-15T16:24:42.061Z",
+            "tags": [],
+            "classTitle": "fetal head circumference",
+            "bitmap": {
+                "data": "eJwBJQTa+4lQTkcNChoKAAAADUlIRFIAAAGIAAABNAEDAAAADIU2awAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAPNSURBVHic7dtNbuMwDAXgFrPoUkfQUXQ0+Wg+io+gZRZGNJMfx7JEke8JSJApom3xwSIf3aK2/PXVWfnfOvV+KKyffFs0yGcQfOfHAjcWdpEXak/wvvJhJRu4owAukqu1WOCnFuZFYi3yrIM/DbAy8a0wZkUA+raaus1tBUmo2xKBti1xU+qkSJ3KaogyyHnqASG+21p6wvVEt7+hJ7qF9EC3kE5vlUJ8X3QKiX0hF/LdB53R6qZxWbMknCaSJIImxNI1IJauliGWruR3WULpXhdLK6IuhNJ1kFe2cKF0o3Bh4L0lmmYFSySy8LZZ6qhfV90ss/Bmspwp6mZ5W1TNirZYyFbV7bVbVbfXblXdXgeIY3s9II7TGxBxCCQiogwEadUxEPMGvK4yEKS5x0AcJMpAPCTKQAIkykAiJopAMFAEgsVRBoLFUQosjjJCB4o9Qg+KPcJAiwiKPXQQ7KGjceyho3HsAo1jHxMHiy10/0SxjUmAxTYmkRYw2MYED3AbE17gkW+DhUe+CUeIaVB4Qsxk5NtgxaeKRA7JXRCR30eRF8yQ3AQzJLdx54VjxHlMeEZkdqxGRaTENCQoMCBmchAHBTW619uWF9TojohEju6g8M8WJ3bYXyUiJ9YRwYEXCfKGGhDnAUHegi8S5E37piKzvxjeVvhfIsJHwCJ+xH8tzuyfqI94qlg/Al6nXyLSm4pIiuWXiPktxUT/dX6FoP+548V5RPhni/UF4kQ/NHiFGHqU8fRHMrzgH0bxYnqBYJ8gD4gz+yR8QKy0ONGPXnmR6AfCvFhoMdOPwnkx0Q/o6TdFmX5/dabFSr9V48XthSJzSyVa3N5fMTfIXURczLSYbiLg4mtUeBhsr+gdLFZabO+Q8VFMd4EP1jIs8MG6R04M1kSLDQycsQig2M9xeFDwp0vSQzhQLA+BjskjDjj0Rxxw6F/7wkB5zilCYqVFeV4rQCIVwkNiKYSDxFQILMICYBEeTvVBER5PDiLieDoxAmI5iACI+SA8IKaDQNp7AEh7qzOsQHvrc7K2SJWIppgrEUwxVcJZoDnkbba3ORtttrcu3G7W0ohoiLpwu1kNsJrVHgq3mtUWbk1WW7jVrLZwo3TxiwavCfHTAbV0oXCj9FkSauki0EoX8rssR5ahDrxchlZIB/QL6ZShFLL0RLeQqSd6hSgfLnUKSX3RGa25L+TRUj+Ji5JQPyRz5KbkbRnf6QndSroQtjXpog3R/NbSU3VfVj1b3bHdVyAvUV8EuERVyYSIsl0JAsUEox++7jGiYCPwFa4rKEX/BZh1GMlW5S6+AAAAAElFTkSuQmCCS63e/A==",
+                "origin": [
+                    196,
+                    72
+                ]
+            }
+        }
+    ]
+}

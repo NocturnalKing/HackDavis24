@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 540,
+        "width": 800
+    },
+    "objects": [
+        {
+            "id": 44970851,
+            "classId": 6461311,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-15T16:25:35.679Z",
+            "updatedAt": "2023-09-15T16:25:35.679Z",
+            "tags": [],
+            "classTitle": "fetal head circumference",
+            "bitmap": {
+                "data": "eJwBHwTg+4lQTkcNChoKAAAADUlIRFIAAAFxAAABQgEDAAAAPad/5AAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAPHSURBVHic3dvJbeMwFAZgD3LIkSWwFJZGlaZSVAKPPgjijBNZ4vK2XwADZXjNB/ltjGGbfDyY9ZH/rcT9tVuf+Ws9jfwj72ux+XysycL96S0R/ckZegFfev0FqsfnjD3eUKKa51Xhn43XMg6tTyL/03IlINd5OaDY+wUKR24ZEU7eBN9VR0mA4kICXbOUBDzp+QQi6dkEqGq+1gyFz48QHT4/Qkz4XMJc+FzCXPhcwlz4XMJc+FyHWU4X6IP35H8hJ3iqQEHwVIH4dMktwHcrkwWS0qUK5CRPTJCXPFHQKPq+oCLvCyqmSxSUH+avlbB0+wYE2XcNiLJvGyBOw2th5ekaoJSna4DXfNOAoPmmARH0Gm8appanaZhanqZhTvV1wzzog+6rBkfdlw1Wpy3XDdbLWXu9nHWDncGXDfagDwZfDkQEvYGXA2QpfzkQlvKX3lL+coAc6L3JnwMXQB9N/hw4Ez8Hzlb+09vKfw4c6m3tOr2z+WNAPeiDzR8DHcf4Y6CN/O2N7T28sV3HBjC2C/cz1N7De9AHq1+u+Qh6K9+9ub37Bka9eRx2b27vvoFR70Dvh/kVG4eLPoLezGG/YeNzzdvH7dvbx+ead3afr3g/2IfBPg72AL/igfH8egNDPTDOlzwwzj/i3WDvb+bDYB9v5hE+3IPb8Qc8tH1v6KHtPtpv4L+H/8B7xK/382Gkf/5+HxGffrlfbuZn3CMc9vd7O72V327m18H+eTOfBvtlsJ9v5qfBfvCn8W2wXwf7J+jTYL+A37agfh7sJ9A/wG+vQL8N9ivor31ZbfcJ9Mslb/+8NoN+uuTtn2cfmN9Av/84aP5+APVP0H+Pg/0NYxns591Ho59Av3P4t9lBHv1t+Qn6d3utG3gB/btd1g05gf7NrRsM9OdZEtuGWUFfnJ0x+XT6aPEL6OfTB4ufQH9y04CWZ8Gcwa+gL48uWQauKKdpgGbQF+U0DdCjXDrfQF8f3Yuqr48GBtWnynvVz5V3qp9AX3F9IJqjpWqDm6OuaoPr8ugNWxofFT81Pii+4VrDuqPPTvbdSWD0pDF6kllpQFserQEdlxtAnCQPkidOqnvJd+kqDejTlRvQc7Gg5M0CwZM3FyKUrlggIl2pQPRNEL5A9E0TvkCJ9HyBZtoHztMcviiDXsThtiQTPpswx5mE+atijvQL6+kEJtaTCaAXv5LgqQRmwRMJSOFQCchXEz0UDjFCcjh9QEnxbUUnxTcB6RcxI5Dta7mSa9cqXwt7fPUCtpuzpzdx+J7tO6Jk5HsT+Kf/BXKc21DZ4HnjAAAAAElFTkSuQmCCohkLmA==",
+                "origin": [
+                    233,
+                    133
+                ]
+            }
+        }
+    ]
+}

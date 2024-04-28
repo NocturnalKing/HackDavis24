@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 540,
+        "width": 800
+    },
+    "objects": [
+        {
+            "id": 44970618,
+            "classId": 6461311,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-15T16:25:14.992Z",
+            "updatedAt": "2023-09-15T16:25:14.992Z",
+            "tags": [],
+            "classTitle": "fetal head circumference",
+            "bitmap": {
+                "data": "eJwBJgTZ+4lQTkcNChoKAAAADUlIRFIAAAGCAAABMwEDAAAABqKWGgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAPOSURBVHic7dtNjqMwEAVgWrPopY/go3A0czSOwhFYZhHFo/xA26Z+3vMoUZQeL2f0CVe9Iq0EMwzCijln6d+19ZVva2UBQdIm8oKBkH/WRO3puk6IiKXIM3mJnM/sJZCLNMC/SGiF2650EKsN/hxAvrCb8mo/bspJUdhUtsde2pQ9j6MojG19icDa1rciZlVERayqSIpQQ9TK0GdLK0Pvr1aG3l+tDL0QFWiFyENlFRIMIReiF64VoheeldGygDhaVuHyaOmJX5f0sRVNIZU+mkLK0AZC6fqo39exdLtVUunBEcfSoyOOpY+eOJSePLGQrToOvNeqY7Psqbotsrn50Kzoi6ZZoy+aZiVfNM3yQdMsP452svw4ctNeII6mWQERVbMiIlYyjqa9CRFVexFQtReJI1ftheKopheKowoEFEUgARNFIBETRSAjJopAEiYutCgCAcFPIGDkRSCw2AMBh6QIBIy8CAQWeyABFXsgERW5X4yw2CJMsJhpsUUIgz1CWsBjtYdOiDM5iHvovIAHMW+hM2LiRrdLzOTobmPCi5EQKy1O5LD3iDMtLuTt0SMyeXt0ialLEDdUvo/is8VC3oL3UXy2OHWJ8GRxfoG4kB8lPSK/Qkzcx9WLxPyWYuE+RLvE+pbi9CHi3CM48BJx+RCRf6+YPkakNxTzf/FUMf4XsIi/VoQPEdx3nFcJ7hvk+wru+/n1r8ErBPuHsEuk9xPk71e9Ir6duHT9CMAL7kbnxZn+calPcLfUqUtwt1SnSIxY+8TIiKVPRFoERsx9ghpeXtyeHFDDO9G/Ig99ghnFx3OZ9EzxeL400iI+UzyekwVcrHdBjMlDEGOy9ApiTOaBHZNNJFhMAxs6Lx4AD31/Vh1owT9BhyPcn9LDEf4ctEDFuosEiuUfxAiKeRcRFNMuAih2gEZYnDABIywEGGF5EAkT5WGnBIm1ECMklkIESMyFwNpbCqy9UyGw9g7lQkB9iC4Boj6oNwKiPgwYALFWAmnvUgmkvXMlkPZOlUCaVQOgWe1p2eiK9liq36y1EX6zlkb4zZob4TdrasXogOPB4uCI4+Flr1nHQ+5e6W2rho5j2x1Hw4MJpOPn/BF3u/RVEHbqQqucgRcKd0qXgDnwyitJhhALNzMUCzcLEQu3ClHfflGF+uKPWohShlGIUoY+WsabWIksQx0ttQy1v2oZg9Jf8z03cVurJcRtWZsSu8W/5WZuSgzR3pQwW+4bgYfaF0+0tTt1X9c3e4nmIsAlmkqQS1SjAryf2exrAsUe4wyCYZt6Atwus4j/8Rf3FDp5G1VyFwAAAABJRU5ErkJggnrR4uc=",
+                "origin": [
+                    235,
+                    85
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 540,
+        "width": 800
+    },
+    "objects": [
+        {
+            "id": 44970319,
+            "classId": 6461311,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-15T16:24:42.057Z",
+            "updatedAt": "2023-09-15T16:24:42.057Z",
+            "tags": [],
+            "classTitle": "fetal head circumference",
+            "bitmap": {
+                "data": "eJwBTQSy+4lQTkcNChoKAAAADUlIRFIAAAFOAAABdwEDAAAA8OgwTwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAP1SURBVHic7dtLbtswEAZgB11kySPoKDwadTQdhUfgUgvBbBvHEh/z+McwIbuplsUHhfPPyE1k8nJprpBzntt/JC+fM2jdl8xXgObvK6I3/XPBN9Vv+3lQbbX+oHkR5Uch84r+fK0wX1FxBZUUV/CrplIGrqbSCnxDE7rUnDd0qVJc7VKFxbZLFRYbOsot9qOT7GL7qtjF9lWx8z0RlBmDvip2DAjJ1EVVxdT1SdKEBsDU5UlK1kUFwNRFS6ouagL+XhHNioyAzoqcQ8dQIgLPUCKCwNE+Ak72EXBZERFwWRFTwGVFROBY2kUw8XTGaZuW52mbVuBpmxYv24HhO9ClxXcgt2nxHchtWiKt03ISrdOaJFqn5SVaz1aQ6IbTOlhJ1sFKzcp1sAotgxX7WgcrNqsOVqFlsA6nk0w3nJY98DItexAUOuO06IEiyx7gVBmBsl3KCJQ9UOnRA2UEyh4YqNNoNtC9XZNKlweoV2nE6d6uoNL1AarKo7M6vdqpOq557yxCZ3BcbXQBxzXvnX0yTehkm+iK0w19CEz0ij4E+T4Ez6Yz+LzY6DKERvDRstFkpMhT+D1aGN2G0Cv6bJtoHkeRj4F8m8Ln08VGHUbjEJqG0BX8yBpGtyH0Oox6jOYxdD6bLqNoAGk8m6az6fpGdDubXk0UlINofic6vxFdLDS8DY0/nqYfT1f4/9j/dBDd0F8f/2HqfjwF/4x8CQr+ef5uFHtD8hoU/o3kFWg4m/qz6XQ2dafSFX5NNo6iHwTDKPp0j6EJfVttpuFs6jEabXQaQt3TqeHFsvF1tYGCj4GBzvBXFlYKzraB4t9Fmal/Mr19dTgNoQ6hm5VCU3ij0GitVgqNloGmLwqNlp0GgMYLPC92OgF0ucBDYKDzBZ4XO0Xm5SafvDXjgb0hwBAY6L6PxeN0Uum+kcY9k6Y71Tu7U72z8U71dhnocqd6Zw8aNDrv1Gt0l3q7cFpsFHQ41dpV7FTU2lVQrQflVkmFpsdokGksqJfpUtAJp06mc0GVHhRS60FJ5R4YtvYaNgzX1Eu03rE8STRV1Ek0VtSwZ1sMtqZisHNFxWBrKQXbHgfwPG3PWUw8bc8jOJ6mhgpptVRIKzZUSGtpaWDp3FLP0lbyEfRnUtjZ6k+6sGkR54I42sYqRNBlxUfQZcVH0EsuAuoIExMBeTqNpuQZKjqCSNGJpERWXF1EVkxdhrNpzPE8qi7mcBxVFxkAXRcZgOl4IFEXe0LSo1VRc8hURTVh5mi3WOE46YRW1SebeNomyy+1jUs8/VvHJZ7orVcQJVoPoiirFcgniqsuLAo9uqCe1T4KSxo9bqvK/bb6Te+DIExKcTmqpt8H1aVmVw5OIwAAAABJRU5ErkJggis8AoE=",
+                "origin": [
+                    117,
+                    5
+                ]
+            }
+        }
+    ]
+}

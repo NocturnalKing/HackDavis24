@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 540,
+        "width": 800
+    },
+    "objects": [
+        {
+            "id": 44971018,
+            "classId": 6461311,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-15T16:25:53.862Z",
+            "updatedAt": "2023-09-15T16:25:53.862Z",
+            "tags": [],
+            "classTitle": "fetal head circumference",
+            "bitmap": {
+                "data": "eJwB9wQI+4lQTkcNChoKAAAADUlIRFIAAAHVAAABcQEDAAAAH/qgTAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAASfSURBVHic7dxBjuMgEAVQj3oxS47AUTgaPhpH4QheZhGZ0XQnMeAC6leNgiKPt9ETpn5BqxObZWlcLqXU+qx/mfR93QXUpse1S0eVjPyVsuuGWZ/bFBBqCopNOVXXJh4WivlE+QOfh+UP7AnLHPiLoNxSW8qmyLIk5XXmb9qmlWFdw27iW2ZVq3XLnBVBV5l30006vmmyMZg3bTp2dNOuY0ft0aGj9uhNd9TTvemONszedNNgB+jTbkr96fZT6k+3n9Jgut0J+5FtT/jXiHYm3F674wmboW1P2I1tc8J+bKO4VO2WHnXV36u18RiGba1hy7GNYnmO3WjLoY3u4JS5VaxxR35fZLEMz0ZxmRvF8jxLFotHyWLxypzIYnG6+fsK4ojIYlmuJZah41qi0J5riT2LTc+FZkdEdCU7IqLQ7IiIQhu+PRXa8u2p0A6wdaE9YIM43lOhgXhPhQbiPRUaiPe0dRjEJo0tQ7KQjeLWqEPykC1DgmgZEtQaVUigLUKC2iqVIUFtlcqVZEAbFTYP2II2D9iBNg/Yg3ZX2DxglGYBo22VB4zbI2C0JfOA0ZbMA8btEbCB7a6wR8BWYR1uV4V9NYfHbVTYV3Pg9GgOhcWXwtFYEvtsLHwZpVdziOwqXUZKG8TL6NVYIruJl6DO3hT2Ll6+OruLl296NuX77Spd+unZlO+3UbptpEdTaqxo23g09AR7V9hdvF3pbNJaI7TrJBuU1gptnGS3SfYm3dqV9j7J7krrhTbNsusH2jDJRumf34l2+0B7m2TvF7P7B9p0NbtezIaL2Xg566fY7b99k3VT7O1y1l7MmotZ6fc5n2qF37l9rBV+pzrVft4/dTfFP/xK6z7QWqnd5lkzyYo3O6UVbzpxnhVvOkor3jg0Nii+kdVaN8Guil8YtNYo7Kxf26QLSWuFC2nXWuFC2hW/0t/V1imsFdmb2pq32+9f+IWL4cfKGjqqrayhf6ysocMib0qNXRd5Qz+sldgfKmsshX0+6iZpSs1jcprH8zT2XzyOqHqE0imsxW18WvNeG55W0FgvK2is9WkFzbG8Lo31KM2eU3eozZ6PtwprUJs90w8HvB0WDjizcMDxsHDAIbNeYR1o18xa0GYUDbh4NwYMuLBgwJr3eTTvEW2F9ZCNhXUKayEbCmsguxYWC6mgWEj1K7WIrV989ICtX7h0gN0qawAbK4uspFBZJKS1skhIS315Nj2/Me3Y9vwCsWXb84vL/ELX8SKFruNdgI6u40UKXceLFPpM2R1NvUzPLTR1xAO3K88R8QtNRMQuFlFmdrEoyiwWfUgDr1iNo0NYliwzs1hkmXWHcLCKRVNWsZqnrPixbZ7BY8e2USrWhEPLMibcoozu6Bzu5Ea2c1yRGdlmqRib9Nq2w4Q7dJRw90ipQcJbzw4SDj07mHCX9lManKDVTak73aXflv3p9lMa0F5K48MK2zYObfum16Ft3jTnCLyW3Ri2ddPjW262B+88SUfayLJ0tViUrhb3FEtD2MC0xMD8kzfPA7OHPQ+MHPhZDwwMW+9b2Dmj5YYJ0bJBImizKW8oPbCALo+kWh/+AXTrASMejlyRAAAAAElFTkSuQmCCFDR1Iw==",
+                "origin": [
+                    225,
+                    93
+                ]
+            }
+        }
+    ]
+}
