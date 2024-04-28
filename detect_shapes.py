@@ -2,6 +2,7 @@ from ShapeDetector import *
 import argparse
 import imutils
 import cv2
+
 # construct the argument parse and parse the arguments
 #image = cv2.imread('Bob/1_2HC.png')
 ap = argparse.ArgumentParser()
