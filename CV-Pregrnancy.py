@@ -7,9 +7,23 @@ img = cv.imread('Bob/1_2HC.png')
 gaussian_blur = cv.GaussianBlur(img, (7,7), 2)
 sharpened = cv.addWeighted(img, 3.5, gaussian_blur, -2.5, 0)
 
+<<<<<<< Updated upstream
 cv.imshow('Sharpened', sharpened)
 
 #cv.imshow("Pregnancy" , img)
+=======
+gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+cv2.imshow("Gray", gray)
+
+thresh = cv2.threshold(gray, 0, 255, cv2.THRESH_BINARY)[0]
+dist = cv2.absdiff(gray, thresh)
+contours, hierarchy = cv2.findContours(dist, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
+
+cv2.drawContours(mask, contours, -1, (255,255,255),5)
+output = np.where(mask==np.array([255, 255, 255]), blurred_img, image)
+
+cv2.imshow("Output", output)
+>>>>>>> Stashed changes
 
 gray = cv.cvtColor(sharpened, cv.COLOR_BGR2GRAY)
 # cv.imshow('Gray', gray)

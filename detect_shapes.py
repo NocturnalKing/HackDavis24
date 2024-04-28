@@ -3,7 +3,7 @@ import argparse
 import imutils
 import cv2
 # construct the argument parse and parse the arguments
-img = cv2.imread('Bob/1_2HC.png')
+#image = cv2.imread('Bob/1_2HC.png')
 ap = argparse.ArgumentParser()
 ap.add_argument("-i", "--image", required=True,
 	help="path to the input image")
@@ -12,7 +12,7 @@ args = vars(ap.parse_args())
 # load the image and resize it to a smaller factor so that
 # the shapes can be approximated better
 image = cv2.imread(args["image"])
-resized = imutils.resize(image, width=300)
+resized = imutils.resize(image, width=200)
 ratio = image.shape[0] / float(resized.shape[0])
 
 # convert the resized image to grayscale, blur it slightly,
