@@ -14,6 +14,8 @@ def gsblur(img):
     # cv.imshow('Gray', gray)
     blur = cv.GaussianBlur(img, (7,7), cv.BORDER_DEFAULT)
 
+gsblur(img)
+
 def gblur(img):
     gaussian_blur = cv.GaussianBlur(img, (7,7), 2)
     sharpened = cv.addWeighted(img, 3.5, gaussian_blur, -2.5, 0)
