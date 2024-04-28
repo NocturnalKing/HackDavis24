@@ -17,11 +17,11 @@ cv2.drawContours(mask, contours, -1, (255,255,255),5)
 # im = cv.filter2D(img, -1, kernel)
 # cv.imshow("Imageeee", im)
 
-# #image sharpening
-# gaussian_blur = cv.GaussianBlur(img, (7,7), 2)
-# sharpened = cv.addWeighted(img, 3.5, gaussian_blur, -2.5, 0)
+#image sharpening
+gaussian_blur = cv.GaussianBlur(img, (7,7), 2)
+sharpened = cv.addWeighted(img, 3.5, gaussian_blur, -2.5, 0)
 
-# cv.imshow('Sharpened', sharpened)
+cv2.imshow('Sharpened', sharpened)
 
 # #cv.imshow("Pregnancy" , img)
 
