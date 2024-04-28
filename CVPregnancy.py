@@ -42,26 +42,26 @@ def gblur(img):
 # # scale_factor = 0.1 #bad value to use, originally was 0.1, i dont really know.
 # # size = area * scale_factor ** 2
 
-# count = contours[0]
-# print("count", count)
-# def find_solidity(count): 
-#     contourArea = cv.contourArea(count) 
-#     convexHull = cv.convexHull(count) 
-#     contour_hull_area = cv.contourArea(convexHull) 
-#     solidity = float(contourArea)/contour_hull_area 
-#     return solidity 
+count = contours[0]
+print("count", count)
+def find_solidity(count): 
+    contourArea = cv.contourArea(count) 
+    convexHull = cv.convexHull(count) 
+    contour_hull_area = cv.contourArea(convexHull) 
+    solidity = float(contourArea)/contour_hull_area 
+    return solidity 
 
-# Solidity = find_solidity(count) 
-# Solidity = round(Solidity, 2) 
-# def find_equi_diameter(count): 
-#     area = cv.contourArea(count) 
-#     equi_diameter = np.sqrt(4*area/np.pi) 
-#     return equi_diameter 
+Solidity = find_solidity(count) 
+Solidity = round(Solidity, 2) 
+def find_equi_diameter(count): 
+    area = cv.contourArea(count) 
+    equi_diameter = np.sqrt(4*area/np.pi) 
+    return equi_diameter 
 
-# print("Diameter" , find_equi_diameter(count))
-# # print(area)
-# # print("size:", size)
-# cv.imshow("Pregnacy", canny)
+print("Diameter" , find_equi_diameter(count))
+print(area)
+print("size:", size)
+cv.imshow("Pregnacy", canny)
 
 
 #laplacion, edge detection
